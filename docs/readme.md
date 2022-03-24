@@ -10,43 +10,75 @@ Last updated: March 23, 2022
 
 ## News 
 
-23 Mar 2022: ["PSAC files policy grievances against federal vaccination policy"](https://psacunion.ca/psac-files-policy-grievances-against-federal), Public Service Alliance of Canada, 
-
-8 Mar 2022: ["Vancouver Coastal Health’s top doctor said vaccine mandates may cause more harm than good, letter reveals"](http://www.theglobeandmail.com/canada/british-columbia/article-vancouver-coastal-healths-top-doctor-said-vaccine-mandates-may-cause), the globe and mail
-
+23 Mar 2022: ["PSAC files policy grievances against federal vaccination policy"](https://psacunion.ca/psac-files-policy-grievances-against-federal), Public Service Alliance of Canada   
+8 Mar 2022: ["Vancouver Coastal Health’s top doctor said vaccine mandates may cause more harm than good, letter reveals"](http://www.theglobeandmail.com/canada/british-columbia/article-vancouver-coastal-healths-top-doctor-said-vaccine-mandates-may-cause), The Globe and Mail 
 20 Feb 2022: ["There is no longer a strong scientific reason to differentially treat those who were fully vaccinated
-months ago and those who are unvaccinated, in terms of the risks that they pose for transmitting COVID to others"](https://github.com/IVI-M/vitals/raw/main/docs/2022-02-20-Letter-to-UBC-Pres-from-UBC-experts.pdf), Letter to the University of British Columbia President from the University Professors 
-
-24 Feb, 2022: 'Not demonstrably justified': High Court upholds challenge to Police and NZDF vaccination mandates, terminations suspended
+months ago and those who are unvaccinated, in terms of the risks that they pose for transmitting COVID to others"](https://github.com/IVI-M/vitals/raw/main/docs/2022-02-20-Letter-to-UBC-Pres-from-UBC-experts.pdf), Letter to the University of British Columbia President from the University Professors    
+24 Feb 2022: ['Not demonstrably justified': High Court upholds challenge to Police and NZDF vaccination mandates, terminations suspended](https://www.nzherald.co.nz/nz/not-demonstrably-justified-high-court-upholds-challenge-to-police-and-nzdf-vaccination-mandates-terminations-suspended/LMAUM7LZWV6FFQWAKKJFLKYLIE/)
 
 
 <!-- - ["State Health Departments Forced to Remove False Information About COVID-19 Vaccines"](https://www.icandecide.org/state-health-departments-forced-to-remove-false-information-about-covid-19-vaccines/),
+
+
+Rex Murphy: Trudeau's monumentally misguided emergency measures are an insult to Canadians
+Author of the article:Rex Murphy
+Publishing date:Feb 16, 2022  
+https://nationalpost.com/opinion/rex-murphy-trudeaus-monumentally-misguided-emergency-measures-are-an-insult-to-canadians
+
 -->
 
-## Weekly Update ([Live Google spreadsheet](https://ivi-m.github.io/vitals/data)):
+## Weekly Update (from [Live Google spreadsheet](https://ivi-m.github.io/vitals/data)):
 
-Percentage of Fully vaccinated: last week (six-month weekly average)
+Period reported: 2022-02-20 - 2022-02-27
 
-- In Canada - Full vaccination rate : 80.7% (75%)
-- In C19 cases: 83.9% (62%)
-- In C19 deaths: 76.4% (52%)
 
-Percentage of Fully vaccinated | last week  | six-month weekly average |
-In Canada (Full vaccination rate) | 80.7% | 75% | 
-In C19 cases |  83.9% | 62% |
-In C19 deaths | 76.4% | 52% |
-
-Percentage of Fully vaccinated | last week  | six-month weekly average |
+C-19 Vaccine Severe reactions | three-month weekly average* | Total since May 2021
 -------------------------------|------------|--------------------------|
-In Canada (Full vaccination rate) | 80.7% | 75% | 
-In C19 cases |  83.9% | 62% |
+- All ages | 207 |
+- Under 20 | 14 |
+
+\* Adjusted for the reporting delay, which in an average 4 months
+
+
+COVID-19 Deaths  | Last week statistics | Six-months weekly average | Total since May 2021
+-------------------------------|------------|--------------------------
+All ages* from all causes |  228  |  276.9 
+Under 20 from all causes  |  0  | 0.2 
+Under 40 from all causes  |  4  | 5.5 
+All ages from COVID-19 only** | 20 +/- 10
+
+\* Average age of deceased: 75  years  
+\*\* Estimated based on historical data
+200 is about 5 people in a million in Canada, with population of 39 million
+
+Other deaths in the same week, based on [historical data](https://open-canada.github.io/vitals/app):
+
+Total | Cancer-related  |Heart deseases | Accidents | Suicides
+ ~6000 |  ~1500 | ~1000 |  ~300 |  ~100 | 
+
+Percentage of Fully vaccinated  | Last week statistics | Six-months weekly average |
+-------------------------------|------------|--------------------------|
 In C19 deaths | 76.4% | 52% |
+In C19 cases |  83.9% | 62% |
+In Canada (Full vaccination rate) | 80.7% | 75% | 
 
-| Percentage of Fully vaccinated | last week  | six-month weekly average |
-| In Canada (Full vaccination rate) | 80.7% | 75% | 
-| In C19 cases |  83.9% | 62% |
-| In C19 deaths | 76.4% | 52% |
+C19 Cases resulting in Deaths  :
 
+All  | Unvacinated   | Vaccinated with 2 doses  | Vaccinated with 3 doses
+ 0.78%   | 1.0%  | 0.5%  | 0.9  |
+
+
+<!-- 
+C19 Cases resulting in Deaths:
+- All: 0.78% 
+- Unvacinated: 1.0%
+- Vaccinated with 2 doses: 0.5%
+- Vaccinated with 3 doses: 0.9
+-->
+
+
+
+<!-- 
 C19 Deaths: last week (six-month weekly average)
 - All ages*: 228 (276.9), or 6 people in million 
 - Under 20 : 0 (0.2)
@@ -56,7 +88,11 @@ C19 Deaths: last week (six-month weekly average)
 \* Includes deaths from other causes with C19 positive test.
 \** Estimated based on historical data
 
+
 Other deaths in the same week, based on [historical data](https://open-canada.github.io/vitals/app):
+
+Total | Cancer-related  |Heart deseases | Accidents | Suicides
+
 - Total: ~6000
 - Cancer-related: ~1500
 - Heart deseases: ~1000
@@ -67,7 +103,7 @@ C19 Cases resulting in Deaths:
 - All: 0.78% 
 - Unvacinated: 1.0%
 - Vaccinated with 2 doses: 0.5%
-- Vaccinated with 3 dosesL 0.9
+- Vaccinated with 3 doses: 0.9
 
 
 C-19 Vaccine Severe reactions (three-month weekly average adjusted for the reporting delay)
@@ -75,10 +111,11 @@ C-19 Vaccine Severe reactions (three-month weekly average adjusted for the repor
 - Under 20: 14
 \* Average delay in reporting: 4 months
 
+-->
+
+
 
 <!-- 
-
-
   
 **Disclaimer**: The results and views presented in this portal are those by the authors and are not to be misconstrued as representing  views of
 any Canadian Agency, University, or Department. All codes behind the analysis and supporting documents are free, open and available in [GitHub](https://github.com/ivi-m/vitals/).  The authoritative source for COVID-19 information is [Canada.ca/coronavirus](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html). 
@@ -87,9 +124,13 @@ any Canadian Agency, University, or Department. All codes behind the analysis an
 
 
 
-## Where to go from here:
-
+<!-- ## Where to go from here: 
 - [Live Spreadsheet:  Official Data Related to COVID-19 Vaccine Efficacy and Safety - Dashboard and raw data](https://docs.google.com/spreadsheets/d/1lSO5jJwTkMNGl9kk6Y5jeGORGS11KzEE5yTxBGrGYKw) 
+-->
+
+## Other resources
+
+
 - [What did Chief Science Advisor of Canada say about COVID-19 vaccines](https://ivi-m.github.io/vitals/#ChiefSciCan)
 - [Guide on how to report COVID-19 vaccine side-effects in Canada as a consumer](https://ivi-m.github.io/vitals/report-side-effect)
 <!-- - [Early COVID-19 Treatment Guidelines](https://worldcouncilforhealth.org/resources/early-covid-19-treatment-guidelines-a-practical-approach-to-home-based-care-for-healthy-families/) -->
