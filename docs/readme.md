@@ -5,66 +5,44 @@ Analysis of Official Data Related to COVID-19 Vaccine Efficacy and Safety
 Analysis of Official Canada Data Related to COVID-19 Vaccine Efficacy and Safety
 ==================================================
 
-[ivi-m.github.io/vitals](https://ivi-m.github.io/vitals) (originally: [open-canada.github.io/vitals](https://open-canada.github.io/vitals))    
-Last updated: March 23, 2022
-
-## News 
-
-23 Mar 2022: ["PSAC files policy grievances against federal vaccination policy"](https://psacunion.ca/psac-files-policy-grievances-against-federal), Public Service Alliance of Canada   
-8 Mar 2022: ["Vancouver Coastal Health’s top doctor said vaccine mandates may cause more harm than good, letter reveals"](http://www.theglobeandmail.com/canada/british-columbia/article-vancouver-coastal-healths-top-doctor-said-vaccine-mandates-may-cause), The Globe and Mail 
-20 Feb 2022: ["There is no longer a strong scientific reason to differentially treat those who were fully vaccinated
-months ago and those who are unvaccinated, in terms of the risks that they pose for transmitting COVID to others"](https://github.com/IVI-M/vitals/raw/main/docs/2022-02-20-Letter-to-UBC-Pres-from-UBC-experts.pdf), Letter to the University of British Columbia President from the University Professors    
-24 Feb 2022: ['Not demonstrably justified': High Court upholds challenge to Police and NZDF vaccination mandates, terminations suspended](https://www.nzherald.co.nz/nz/not-demonstrably-justified-high-court-upholds-challenge-to-police-and-nzdf-vaccination-mandates-terminations-suspended/LMAUM7LZWV6FFQWAKKJFLKYLIE/)
-
-
-<!-- - ["State Health Departments Forced to Remove False Information About COVID-19 Vaccines"](https://www.icandecide.org/state-health-departments-forced-to-remove-false-information-about-covid-19-vaccines/),
-
-
-Rex Murphy: Trudeau's monumentally misguided emergency measures are an insult to Canadians
-Author of the article:Rex Murphy
-Publishing date:Feb 16, 2022  
-https://nationalpost.com/opinion/rex-murphy-trudeaus-monumentally-misguided-emergency-measures-are-an-insult-to-canadians
-
--->
+Dashboard \| 
+\| News \| Words from Chief Science Advisor of Canada \| Key observations \| White Papers \| Analysis of Sources
 
 ## Weekly Update (from [Live Google spreadsheet](https://ivi-m.github.io/vitals/data)):
 
-Period reported: 2022-02-20 - 2022-02-27
+For the week of: 2022-02-20 - 2022-02-27
 
 
-C-19 Vaccine Severe reactions | three-month weekly average* | Total since May 2021
+COVID-19 Vaccine Severe reactions | Six-months weekly average* | Total since May 2021
 -------------------------------|------------|--------------------------|
-- All ages | 207 |
-- Under 20 | 14 |
-
-\* Adjusted for the reporting delay, which in an average 4 months
+All ages | 207 |
+ Under 20 years of age | 14 |
+Notes: \* Adjusted for the reporting delay, which in an average 4 months.
 
 
 COVID-19 Deaths  | Last week statistics | Six-months weekly average | Total since May 2021
 -------------------------------|------------|--------------------------
-All ages* from all causes |  228  |  276.9 
-Under 20 from all causes  |  0  | 0.2 
-Under 40 from all causes  |  4  | 5.5 
-All ages from COVID-19 only** | 20 +/- 10
+For all ages* from all causes |  228  |  276.9 
+For under 20 from all causes  |  0  | 0.2 
+For under 40 from all causes  |  4  | 5.5 
+For all ages from COVID-19 only** | 20 +/- 10 | 25 +/- 10 
 
-\* Average age of deceased: 75  years  
-\*\* Estimated based on historical data
-200 is about 5 people in a million in Canada, with population of 39 million
+Notes: \* Average age of deceased from COVID-19: 72  years.
+\*\* Estimated based on historical data. \*\*\* Count of 200 equals approximately 5 people in a million in Canada, with population of 39 million
 
-Other deaths in the same week, based on [historical data](https://open-canada.github.io/vitals/app):
-
+<b> Other deaths within the same period, estimated based on [historical data](https://open-canada.github.io/vitals/app): </b> 
 Total | Cancer-related  |Heart deseases | Accidents | Suicides
  ~6000 |  ~1500 | ~1000 |  ~300 |  ~100 | 
 
 Percentage of Fully vaccinated  | Last week statistics | Six-months weekly average |
 -------------------------------|------------|--------------------------|
-In C19 deaths | 76.4% | 52% |
-In C19 cases |  83.9% | 62% |
+In COVID-19 deaths | 76.4% | 52% |
+In COVID-19 cases |  83.9% | 62% |
 In Canada (Full vaccination rate) | 80.7% | 75% | 
 
-C19 Cases resulting in Deaths  :
+<b> Percentage of COVID-19 Cases resulting in Deaths:</b> 
 
-All  | Unvacinated   | Vaccinated with 2 doses  | Vaccinated with 3 doses
+All  | For Unvacinated   | For Vaccinated with 2 doses  | For Vaccinated with 3 doses
  0.78%   | 1.0%  | 0.5%  | 0.9  |
 
 
@@ -128,6 +106,13 @@ any Canadian Agency, University, or Department. All codes behind the analysis an
 - [Live Spreadsheet:  Official Data Related to COVID-19 Vaccine Efficacy and Safety - Dashboard and raw data](https://docs.google.com/spreadsheets/d/1lSO5jJwTkMNGl9kk6Y5jeGORGS11KzEE5yTxBGrGYKw) 
 -->
 
+
+## Live Spreadsheet
+
+<iframe frameborder="0" height="620" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9YL1sdOLcImnAc5FPOq92pcnTBibk7NYZBYI1K5EXxOXgiBS7ONinDa336sAfw3AD4unOadWqFFNd/pubhtml?widget=true&amp;headers=false" width="100%"></iframe>
+
+
+
 ## Other resources
 
 
@@ -141,14 +126,30 @@ Spreadsheet with raw data&nbsp;and calculations: (<a href="http://docs.google.co
 
 
 
-## Live Spreadsheet
+## News 
 
-<iframe frameborder="0" height="620" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9YL1sdOLcImnAc5FPOq92pcnTBibk7NYZBYI1K5EXxOXgiBS7ONinDa336sAfw3AD4unOadWqFFNd/pubhtml?widget=true&amp;headers=false" width="100%"></iframe>
+- 23 Mar 2022: ["PSAC files policy grievances against federal vaccination policy"](https://psacunion.ca/psac-files-policy-grievances-against-federal), Public Service Alliance of Canada, 
+- 8 Mar 2022: ["Vancouver Coastal Health’s top doctor said vaccine mandates may cause more harm than good, letter reveals"](http://www.theglobeandmail.com/canada/british-columbia/article-vancouver-coastal-healths-top-doctor-said-vaccine-mandates-may-cause), the globe and mail
+- 20 Feb 2022: ["There is no longer a strong scientific reason to differentially treat those who were fully vaccinated
+months ago and those who are unvaccinated, in terms of the risks that they pose for transmitting COVID to others"](https://github.com/IVI-M/vitals/raw/main/docs/2022-02-20-Letter-to-UBC-Pres-from-UBC-experts.pdf), Letter to the University of British Columbia President from the University Professors 
+- 24 Feb, 2022: ['Not demonstrably justified': High Court upholds challenge to Police and NZDF vaccination mandates, terminations suspended](https://www.nzherald.co.nz/nz/not-demonstrably-justified-high-court-upholds-challenge-to-police-and-nzdf-vaccination-mandates-terminations-suspended/LMAUM7LZWV6FFQWAKKJFLKYLIE/)
+
+
+<!-- - ["State Health Departments Forced to Remove False Information About COVID-19 Vaccines"](https://www.icandecide.org/state-health-departments-forced-to-remove-false-information-about-covid-19-vaccines/),
+
+
+Rex Murphy: Trudeau's monumentally misguided emergency measures are an insult to Canadians
+Author of the article:Rex Murphy
+Publishing date:Feb 16, 2022  
+https://nationalpost.com/opinion/rex-murphy-trudeaus-monumentally-misguided-emergency-measures-are-an-insult-to-canadians
+
+-->
+
 
 
 <a name="ChiefSciCan"></a>
 
-## Introduction: What Chief Science Advisor of Canada said about COVID-19 vaccines.
+## What Chief Science Advisor of Canada said about COVID-19 vaccines.
 
 On March 31, 2021, just before COVID-19 vaccination of general public  commenced, the **Chief Science Advisor of Canada** in the ["*Scientific Considerations for Using COVID-19 Vaccination Certificates"*](https://science.gc.ca/eic/site/063.nsf/eng/h_98229.html) report has  expressed several concerns and recommendations related to the uncertanties associated with using new COVID-19 vaccines that were approved under Emergercy Act and did not go through all normally conducted testing stages. Some of these are listed below:
 
@@ -180,7 +181,7 @@ Recommendations are made to reevaluate vaccine efficacy and safety.based on the 
 
 -->
 
-- Open Canada data that has become available *after* Kuly 2021 <u>do not appear to support </u>  the COVID-19  vaccine manufacturers\' original claims about  vaccine efficacy and safety (See images below). Specifically:
+- Open Canada data that has become available *after* July 2021 <u>do not appear to support </u>  the COVID-19  vaccine manufacturers\' original claims about  vaccine efficacy and safety (See images below). Specifically:
 
     - The number of reported serious adverse events from COVID-19 vaccine (including deaths and key organs failures)   appears to be the same order of magnitude as the number of COVID-19 deaths alone, and for certain populations higher than that. It is also noted that these numbers are reported with several months delay and may not represent the true number of side-events, as reporting of vaccines side-events is not mandatory and 
 
@@ -484,10 +485,6 @@ n = 192,405,448 older than 12 years of age in the US
 -->
 
 
-
-
-<hr>
- 
  
 <!-- https://covid-19.ontario.ca/data 
 
@@ -516,7 +513,7 @@ Hospitalization rates among unvaccinatedindividuals continue to be higher than t
 
 
 
-<hr>
+
 
  If you want to help with further development of this Portal and Open Canada Vaccine /  Vitals Statistics Tracking App development, 
  please send eTransfer to dg @ ivim . ca.  Comments and corrections should be sent to the same address.
@@ -524,28 +521,22 @@ Hospitalization rates among unvaccinatedindividuals continue to be higher than t
 
 -->
 
-<!-- 
+<hr>
+
 **Disclaimer**: The authoritative source for COVID-19 information is [Canada.ca/coronavirus](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html). The results and views presented in this portal are those by the authors and are not to be misconstrued as representing  views of
 any Canadian Agency, University, or Department. They were developed and gathered by the [R4GC Data Science community](https://open-canada.github.io/r4gc/index.html#r4gc-community) as part of the community training and socializing, mostly on authors' own time and using authors' own resources.
 All codes behind the analysis and supporting documents are free, open and available in [GitHub](https://github.com/ivi-m/vitals/).  
 
--->
 
- <!-- 
-[www.IVIM.ca](http://www.IVIM.ca) (forked from [open-canada.github.io/vitals](https://open-canada.github.io/vitals))
-<br>
 
--->
-Corrections/Comments:  opencanadadataanalysis@ivim.ca ].
+[ivi-m.github.io/vitals](https://ivi-m.github.io/vitals) (originally: [open-canada.github.io/vitals](https://open-canada.github.io/vitals))    
+Corrections/Comments:  opencanadadataanalysis@ivim.ca ]
+
 <!-- 
 <a href="https://twitter.com/unbiased__one">Twitter</a>, <a href="https://www.youtube.com/user/IVI0IVI">YouTube</a></p>
 
 -->
  
-
-
-<!-- Comments and corrections are welcome and should be emailed to <opencanadadataanalysis @ ivim . ca -->
-
 
 
 
