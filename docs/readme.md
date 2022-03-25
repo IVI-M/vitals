@@ -10,7 +10,7 @@ Analysis of Official Canada Data Related to COVID-19 Vaccine Efficacy and Safety
 [Three sources - three biases](https://www.ivim.ca/bias.htm) \| 
 [Dashboard](#Dashboard) \|  [Spreadsheet](https://ivim.ca/data) \| 
 <a href="http://ivim.ca/app">Deaths Tracker App </a>  \| 
-<a href="https://ivi-m.github.io/vitals/report-side-effect">How to report COVID-19 vaccine side-effects</a> \| [Vaccine Mandates] (#Dashboard)\| [Networking](#meetup) \
+<a href="https://ivi-m.github.io/vitals/report-side-effect">How to report COVID-19 vaccine side-effects</a> \| [Vaccine Mandates](#News)\| [Networking](#meetups) \|
 
 
 ## Dashboard (from [Live Google spreadsheet](https://ivi-m.github.io/vitals/data)):
@@ -466,8 +466,6 @@ Hospitalization rates among unvaccinatedindividuals continue to be higher than t
 
 -->
 
-<hr>
-
 
 
 
@@ -492,6 +490,30 @@ https://nationalpost.com/opinion/rex-murphy-trudeaus-monumentally-misguided-emer
 
 -->
 
+
+
+<a name="Meetups"></a>
+
+## Networking 
+
+#### Weekly meetups
+
+Join us for our weekly Lunch and Learn "Data Science with Open Canada Data" meetups.    
+When: Every Friday, 12:00 to 13:00 (Ottawa time)    
+Where: over Zoom    
+
+If you'd like to present your work or join us for these meetings, please contact Dmitry Gorodnichy at [dg @ ivim.ca](dg @ ivim.ca).   
+Government of Canada partners and employees, please go to [R4GC GCCollab group](https://gccollab.ca/groups/profile/7391537/r4gc-use-r-community-use-r) for all details and related discussions.
+
+Corrections and Feedback should be sent:  open-canada-data-analysis@ivim.ca 
+
+#### Elsewhere
+
+Follow us on 
+<a href="https://twitter.com/Gorodnichy_Dm">Twitter</a>, <a href="https://www.youtube.com/user/IVI0IVI">YouTube</a></p>
+
+
+
 <hr>
 
 
@@ -501,13 +523,8 @@ All codes behind the analysis and supporting documents are free, open and availa
 
 
 
-[ivi-m.github.io/vitals](https://ivi-m.github.io/vitals) (originally: [open-canada.github.io/vitals](https://open-canada.github.io/vitals))    
-Corrections/Comments:  opencanadadataanalysis@ivim.ca 
+[ivi-m.github.io/vitals](https://ivi-m.github.io/vitals) (originally: [open-canada.github.io/vitals](https://open-canada.github.io/vitals))   
 
-<!-- 
-<a href="https://twitter.com/unbiased__one">Twitter</a>, <a href="https://www.youtube.com/user/IVI0IVI">YouTube</a></p>
-
--->
  
 
 
