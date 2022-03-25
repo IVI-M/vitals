@@ -119,22 +119,24 @@ as directly observed form official public Government of Canada data, most of whi
 <a name="Summary"></a>
 
 ## Key Observations
+
+Last updated: 16 February 2022
 <!-- 
 <p><small><a href="https://ivi-m.github.io/vitals/#ChiefSciCan">Recommendations of the&nbsp;Chief Science Advisor of Canada</a>, who advised in early stages of vaccination against coersion and being vigilant towards addressing knowledge gaps&nbsp;<u>were not</u> followed.&nbsp;The data related to &quot;knowledge gaps&quot;, such as empirically observed vaccine efficacy and safety statistics, <u>have&nbsp;become available only after August 2021</u>, however&nbsp;the latest report produced by&nbsp;&nbsp;<a href="https://ivi-m.github.io/vitals/#ChiefSciCan">Chief Science Advisor of Canada</a>&nbsp;was published prior to that.</small></p>
 
-<p><small><u>The new&nbsp;data icollected from August 2021 invalidated&nbsp;</u>many&nbsp;originally made statements about the C19 vaccine safety and efficacy. These are listed below,&nbsp;&nbsp;also documented in many other peer-reviewed and official sources.</small></p>
+<p><small><u>The new&nbsp;data collected from August 2021 invalidated&nbsp;</u>many&nbsp;originally made statements about the C19 vaccine safety and efficacy. These are listed below,&nbsp;&nbsp;also documented in many other peer-reviewed and official sources.</small></p>
 
-<p><small>1- Vaccinated get infected and transmit infection <u>not less</u>&nbsp; (possibly more) than unvaccinated.</small></p>
+1- Vaccinated get infected and transmit infection <u>not less</u>&nbsp; (possibly more) than unvaccinated.
 
-<p><small>2- Majority of vaccinated <u>are not</u> significantly protected from severe outcomes.&nbsp;</small></p>
+2- Majority of vaccinated <u>are not</u> significantly protected from severe outcomes.
 
-<p><small>3- Vast majority of people infected by C19, will not have serious effects from C19, and will thus have natural immunity.</small></p>
+3- Vast majority of people infected by C19, will not have serious effects from C19, and will thus have natural immunity.
 
-<p><small>4- Natural immunity is&nbsp;better and safer than&nbsp;vaccine-induced immunity. </small></p>
+4- Natural immunity is&nbsp;better and safer than&nbsp;vaccine-induced immunity. 
 
-<p><small>5- The number of severe (life-threatening)&nbsp;vaccine reactions for children&nbsp;&nbsp;reported to date has already exceeded&nbsp; the&nbsp;number of&nbsp;children deaths from C15, and&nbsp; continues to grow as more reports are coming.</small></p>
+5- The number of severe (life-threatening)&nbsp;vaccine reactions for children&nbsp;&nbsp;reported to date has already exceeded&nbsp; the&nbsp;number of&nbsp;children deaths from C15, and&nbsp; continues to grow as more reports are coming.
 
-<p><small>Instead of admitting the&nbsp;new evidence and allowing wider scrutiny and revision of originally made statements and policies,&nbsp;the Government of Canada has&nbsp;refused&nbsp;the&nbsp;invitation from&nbsp;heaths experts to discuss the new evidence (see&nbsp;<a href="http://github.com/IVI-M/vitals/blob/main/docs/medical/invite-TAM.pdf">invitation letter to Chief Public Health Officer</a>)&nbsp; and appears to be&nbsp; working towards developing new Bills that will make it even harder for Canadians to express their concerns in relationship to the&nbsp; actual COVID-19 vaccine efficacy and safety, and that will&nbsp;discriminate unvaccinated even further.</small></p>
+Instead of admitting the new evidence and allowing wider scrutiny and revision of originally made statements and policies,&nbsp;the Government of Canada has&nbsp;refused&nbsp;the&nbsp;invitation from&nbsp;heaths experts to discuss the new evidence (see&nbsp;<a href="http://github.com/IVI-M/vitals/blob/main/docs/medical/invite-TAM.pdf">invitation letter to Chief Public Health Officer</a>)&nbsp; and appears to be&nbsp; working towards developing new Bills that will make it even harder for Canadians to express their concerns in relationship to the&nbsp; actual COVID-19 vaccine efficacy and safety, and that will&nbsp;discriminate unvaccinated even further.
 
 -->
 
@@ -157,6 +159,10 @@ as directly observed form official public Government of Canada data, most of whi
 <a name="Papers"></a>
 
 ## White Papers:
+
+- ["Three official Government of Canada sources, three algorithmic biases, some significant, all in favour of vaccination"](comment4.pdf), TBD (2 March 2020)
+
+- Computing  percentage of fully vaccinated among weekly cases without bias
 
 -  ["Additional  observations related to the 'Elephant in the Room' –  from the Government of Canada COVID-19 daily epidemiology updates"](https://ivi-m.github.io/vitals/comment2.pdf), White paper (10 February 2022) 
 
