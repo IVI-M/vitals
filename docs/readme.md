@@ -5,7 +5,7 @@ Analysis of Official Data Related to COVID-19 Vaccine Efficacy and Safety
 Analysis of Official Canada Data Related to COVID-19 Vaccine Efficacy and Safety
 ==================================================
 
-[Raison d'être: Words from Chief Science Advisor of Canada](#ChiefSciCan) \| [Key Observations](#Summary) \| [Dashboard](#Dashboard) \|  [White Papers](#papers) \| [Analysis of Sources](#Sources) \|  [Spreadsheet](https://ivi-m.github.io/vitals/data) \| <a href="http://ivim.ca/app">Deaths Tracker App </a> 
+[Raison d'être: Words from Chief Science Advisor of Canada](#ChiefSciCan) \| [Key Observations](#Summary) \| [Dashboard](#Dashboard) \|  [White Papers](#papers) \| [Analysis of Sources](#Sources) \|  [Spreadsheet](https://ivi-m.github.io/vitals/data) \| <a href="http://ivim.ca/app">Deaths Tracker App </a>  \|  <a href="https://ivi-m.github.io/vitals/report-side-effect">How to report COVID-19 vaccine side-effects</a>
 
 
 <a name="News"></a>
@@ -36,23 +36,23 @@ https://nationalpost.com/opinion/rex-murphy-trudeaus-monumentally-misguided-emer
 Last reported: 2022-02-20 - 2022-02-27
 
 
-COVID-19 Vaccine Severe reactions | Six-months weekly average* | Total since May 2021
--------------------------------|------------|--------------------------|
+COVID-19 Vaccine Severe reactions | Six-months weekly average* | Total since general public vaccination 
+----------------------------------|------------|--------------------------
 All ages | 207 |
  Under 20 years of age | 14 |
  
 Notes: \* Adjusted for the reporting delay, which in an average 4 months.
 
 
-COVID-19 Deaths  | Last week statistics | Six-months weekly average | Total since May 2021
--------------------------------|------------|--------------------------
-All ages* |  228  |  276.9 
-< 20 years of age   |  0  | 0.2 
-< 40 years of age   |  4  | 5.5 
-All ages from COVID-19 alone (estimated) | 20**  | 25** 
+COVID-19 Deaths  | Last week statistics | Six-months weekly average | Total since general public vaccination 
+------------------|---------------------|------------------------|----
+All ages* |  228  |  276.9  |
+< 20 years of age   |  0  | 0.2  |
+< 40 years of age   |  4  | 5.5  |
+All ages from COVID-19 alone (estimated) | 20**  | 25**  |
 
-Notes: \* Average age of deceased from COVID-19: 72  years.   
-\*\* Count of 200 equals approximately 5 people in a million in Canada, with population of 39 million.
+Notes: \* Average age of deceased from COVID-19 is 72  years.   
+\*\* esimated using UK data, Count of 200 equals approximately 5 people in a million in Canada, with population of 39 million.
 
 **Weekly estimates for other causes deaths within the same period" **
 
