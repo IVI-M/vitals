@@ -5,30 +5,12 @@ Analysis of Official Data Related to COVID-19 Vaccine Efficacy and Safety
 Analysis of Official Canada Data Related to COVID-19 Vaccine Efficacy and Safety
 ==================================================
 
-[Raison d'être: Words from Chief Science Advisor of Canada](#ChiefSciCan) \| [Key Observations](#Summary) \| [Dashboard](#Dashboard) \|  [White Papers](#papers) \| [Analysis of Sources](#Sources) \|  [Spreadsheet](https://ivi-m.github.io/vitals/data) \| <a href="http://ivim.ca/app">Deaths Tracker App </a>  \|  <a href="https://ivi-m.github.io/vitals/report-side-effect">How to report COVID-19 vaccine side-effects</a>
-
-
-<a name="News"></a>
-
-## News 
-
-- 23 Mar 2022: ["PSAC files policy grievances against federal vaccination policy"](https://psacunion.ca/psac-files-policy-grievances-against-federal), Public Service Alliance of Canada, 
-- 8 Mar 2022: ["Vancouver Coastal Health’s top doctor said vaccine mandates may cause more harm than good, letter reveals"](http://www.theglobeandmail.com/canada/british-columbia/article-vancouver-coastal-healths-top-doctor-said-vaccine-mandates-may-cause), the globe and mail
-- 20 Feb 2022: ["There is no longer a strong scientific reason to differentially treat those who were fully vaccinated
-months ago and those who are unvaccinated, in terms of the risks that they pose for transmitting COVID to others"](https://github.com/IVI-M/vitals/raw/main/docs/2022-02-20-Letter-to-UBC-Pres-from-UBC-experts.pdf), Letter to the University of British Columbia President from the University Professors 
-- 24 Feb, 2022: ['Not demonstrably justified': High Court upholds challenge to Police and NZDF vaccination mandates, terminations suspended](https://www.nzherald.co.nz/nz/not-demonstrably-justified-high-court-upholds-challenge-to-police-and-nzdf-vaccination-mandates-terminations-suspended/LMAUM7LZWV6FFQWAKKJFLKYLIE/)
-
-
-<!-- - ["State Health Departments Forced to Remove False Information About COVID-19 Vaccines"](https://www.icandecide.org/state-health-departments-forced-to-remove-false-information-about-covid-19-vaccines/),
-
-
-Rex Murphy: Trudeau's monumentally misguided emergency measures are an insult to Canadians
-Author of the article:Rex Murphy
-Publishing date:Feb 16, 2022  
-https://nationalpost.com/opinion/rex-murphy-trudeaus-monumentally-misguided-emergency-measures-are-an-insult-to-canadians
-
--->
-
+[Raison d'être: Words from Chief Science Advisor of Canada](#ChiefSciCan)  \|  
+[Key Observations](#Summary) \|  [White Papers](#papers) \| [Analysis of Sources](#Sources) \| 
+[Three sources - three biases](https://www.ivim.ca/bias.htm) \| 
+[Dashboard](#Dashboard) \|  [Spreadsheet](https://ivim.ca/data) \| 
+<a href="http://ivim.ca/app">Deaths Tracker App </a>  \| 
+<a href="https://ivi-m.github.io/vitals/report-side-effect">How to report COVID-19 vaccine side-effects</a> \| [Vaccine Mandates] (#Dashboard)\| [Networking](#meetup) \
 
 
 ## Dashboard (from [Live Google spreadsheet](https://ivi-m.github.io/vitals/data)):
@@ -485,6 +467,33 @@ Hospitalization rates among unvaccinatedindividuals continue to be higher than t
 -->
 
 <hr>
+
+
+
+
+<a name="News"></a>
+
+## Vaccine Mandates 
+
+- 23 Mar 2022: ["PSAC files policy grievances against federal vaccination policy"](https://psacunion.ca/psac-files-policy-grievances-against-federal), Public Service Alliance of Canada, 
+- 8 Mar 2022: ["Vancouver Coastal Health’s top doctor said vaccine mandates may cause more harm than good, letter reveals"](http://www.theglobeandmail.com/canada/british-columbia/article-vancouver-coastal-healths-top-doctor-said-vaccine-mandates-may-cause), the globe and mail
+- 20 Feb 2022: ["There is no longer a strong scientific reason to differentially treat those who were fully vaccinated
+months ago and those who are unvaccinated, in terms of the risks that they pose for transmitting COVID to others"](https://github.com/IVI-M/vitals/raw/main/docs/2022-02-20-Letter-to-UBC-Pres-from-UBC-experts.pdf), Letter to the University of British Columbia President from the University Professors 
+- 24 Feb, 2022: ['Not demonstrably justified': High Court upholds challenge to Police and NZDF vaccination mandates, terminations suspended](https://www.nzherald.co.nz/nz/not-demonstrably-justified-high-court-upholds-challenge-to-police-and-nzdf-vaccination-mandates-terminations-suspended/LMAUM7LZWV6FFQWAKKJFLKYLIE/)
+
+
+<!-- - ["State Health Departments Forced to Remove False Information About COVID-19 Vaccines"](https://www.icandecide.org/state-health-departments-forced-to-remove-false-information-about-covid-19-vaccines/),
+
+
+Rex Murphy: Trudeau's monumentally misguided emergency measures are an insult to Canadians
+Author of the article:Rex Murphy
+Publishing date:Feb 16, 2022  
+https://nationalpost.com/opinion/rex-murphy-trudeaus-monumentally-misguided-emergency-measures-are-an-insult-to-canadians
+
+-->
+
+<hr>
+
 
 **Disclaimer**: The authoritative source for COVID-19 information is [Canada.ca/coronavirus](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html). The results and views presented in this portal are those by the authors and are not to be misconstrued as representing  views of
 any Canadian Agency, University, or Department. They were developed and gathered by the [R4GC Data Science community](https://open-canada.github.io/r4gc/index.html#r4gc-community) as part of the community training and socializing, mostly on authors' own time and using authors' own resources.
