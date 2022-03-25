@@ -5,14 +5,14 @@ Analysis of Official Data Related to COVID-19 Vaccine Efficacy and Safety
 Analysis of Official Canada Data Related to COVID-19 Vaccine Efficacy and Safety
 ==================================================
 
-[Raison d'être: Words from Chief Science Advisor of Canada](#ChiefSciCan)  \|  
-[Key Observations](#Summary) \|  [White Papers](#papers) \| [Analysis of Sources](#Sources) \| 
+[Raison d'être: Words from Chief Science Advisor of Canada](#ChiefSciCan)  \|
+[Key Observations](#Summary) \|  [White Papers](#papers) \| [Analysis of Sources](#Sources) \|
 [Three sources - three biases](https://www.ivim.ca/bias.htm) \| 
 [Dashboard](#Dashboard) \|  [Spreadsheet](https://ivim.ca/data) \| 
 <a href="http://ivim.ca/app">Deaths Tracker App </a>  \| 
 <a href="https://ivi-m.github.io/vitals/report-side-effect">How to report COVID-19 vaccine side-effects</a> \| [Vaccine Mandates](#News)\| [Networking](#meetups) \|
 
-
+<!-- 
 ## Dashboard (from [Live Google spreadsheet](https://ivi-m.github.io/vitals/data)):
 
 Last reported: 2022-02-20 - 2022-02-27
@@ -52,27 +52,29 @@ In Canada (Full vaccination rate) | 80.7% | 75% |
 For Unvacinated   | For Vaccinated with 2 doses  | For Vaccinated with 3 doses | Average  
  1.0%  | 0.5%  | 0.9  |  0.78%   
 
+-->
 
 <a name="Dashboard"></a>
 
-## Live Spreadsheet (click [here](https://ivi-m.github.io/vitals/data) to open it in separate window)
+## Live Spreadsheet 
+
+Click [here](https://ivi-m.github.io/vitals/data) to open Spreadsheet in separate window.
 
 <iframe frameborder="0" height="620" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9YL1sdOLcImnAc5FPOq92pcnTBibk7NYZBYI1K5EXxOXgiBS7ONinDa336sAfw3AD4unOadWqFFNd/pubhtml?widget=true&amp;headers=false" width="100%"></iframe>
 
-
+<!-- 
 
 ## Other resources
 
 
 - [What did Chief Science Advisor of Canada say about COVID-19 vaccines](https://ivi-m.github.io/vitals/#ChiefSciCan)
-- [Guide on how to report COVID-19 vaccine side-effects in Canada as a consumer](https://ivi-m.github.io/vitals/report-side-effect)
-<!-- - [Early COVID-19 Treatment Guidelines](https://worldcouncilforhealth.org/resources/early-covid-19-treatment-guidelines-a-practical-approach-to-home-based-care-for-healthy-families/) -->
+- [Guide on how to report COVID-19 vaccine side-effects in Canada as a consumer](https://ivi-m.github.io/vitals/report-side-effect) - [Early COVID-19 Treatment Guidelines](https://worldcouncilforhealth.org/resources/early-covid-19-treatment-guidelines-a-practical-approach-to-home-based-care-for-healthy-families/)
 - Interactive *Open Canada Vitals Statitistcs (Deaths) Tracker* App: <https://open-canada.github.io/Apps/vitals> (mirror: <https://o-canada.shinyapps.io/vitals>).
 - Archive of PHAC 'Cases following vaccination' reports ad data: [past reports](https://github.com/IVI-M/vitals/tree/main/docs/COVID-19%20epidemiology%20updates),
 Spreadsheet with raw data&nbsp;and calculations: (<a href="http://docs.google.com/spreadsheets/d/e/2PACX-1vT9YL1sdOLcImnAc5FPOq92pcnTBibk7NYZBYI1K5EXxOXgiBS7ONinDa336sAfw3AD4unOadWqFFNd/pubhtml">google sheets</a>,
 <a href="https://github.com/IVI-M/vitals/tree/main/docs/COVID-19%20epidemiology%20updates/Table2-log-calculations.xlsx">xls</a>, <a href="http://github.com/IVI-M/vitals/tree/main/docs/COVID-19%20epidemiology%20updates/Table2-log-calculations.pdf">pdf</a>)
 
-
+-->
 <a name="ChiefSciCan"></a>
 
 ## Raison d'être: What Chief Science Advisor of Canada said about COVID-19 vaccines.
