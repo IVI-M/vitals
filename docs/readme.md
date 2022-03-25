@@ -5,126 +5,8 @@ Analysis of Official Data Related to COVID-19 Vaccine Efficacy and Safety
 Analysis of Official Canada Data Related to COVID-19 Vaccine Efficacy and Safety
 ==================================================
 
-[Live Dashboard](#Dashboard) \| [News](#News) \| [Words from Chief Science Advisor of Canada](#ChiefSciCan) \| [Key Observations](#Summary) \| [White Papers](#papers) \| [Analysis of Sources](#Sources)
+[Raison d'être: Words from Chief Science Advisor of Canada](#ChiefSciCan) \| [Key Observations](#Summary) \| [Dashboard](#Dashboard) \|  [White Papers](#papers) \| [Analysis of Sources](#Sources) \|  [Spreadsheet](https://ivi-m.github.io/vitals/data) \| <a href="http://ivim.ca/app">Deaths Tracker App </a> 
 
-## Weekly Update (from [Live Google spreadsheet](https://ivi-m.github.io/vitals/data)):
-
-For the week of: 2022-02-20 - 2022-02-27
-
-
-COVID-19 Vaccine Severe reactions | Six-months weekly average* | Total since May 2021
--------------------------------|------------|--------------------------|
-All ages | 207 |
- Under 20 years of age | 14 |
- 
-Notes: \* Adjusted for the reporting delay, which in an average 4 months.
-
-
-COVID-19 Deaths  | Last week statistics | Six-months weekly average | Total since May 2021
--------------------------------|------------|--------------------------
-For all ages* from all causes |  228  |  276.9 
-For under 20 from all causes  |  0  | 0.2 
-For under 40 from all causes  |  4  | 5.5 
-For all ages from COVID-19 only** | 20 +/- 10 | 25 +/- 10 
-
-Notes: \* Average age of deceased from COVID-19: 72  years.
-\*\* Estimated based on historical data. \*\*\* Count of 200 equals approximately 5 people in a million in Canada, with population of 39 million
-
-<b> Other deaths within the same period, estimated based on [historical data](https://open-canada.github.io/vitals/app): </b> 
-
-Total | Cancer-related  |Heart deseases | Accidents | Suicides
- ~6000 |  ~1500 | ~1000 |  ~300 |  ~100 | 
-
-Percentage of Fully vaccinated  | Last week statistics | Six-months weekly average |
--------------------------------|------------|--------------------------|
-In COVID-19 deaths | 76.4% | 52% |
-In COVID-19 cases |  83.9% | 62% |
-In Canada (Full vaccination rate) | 80.7% | 75% | 
-
-<b> Percentage of COVID-19 Cases resulting in Deaths:</b> 
-
-All  | For Unvacinated   | For Vaccinated with 2 doses  | For Vaccinated with 3 doses
- 0.78%   | 1.0%  | 0.5%  | 0.9  |
-
-
-<!-- 
-C19 Cases resulting in Deaths:
-- All: 0.78% 
-- Unvacinated: 1.0%
-- Vaccinated with 2 doses: 0.5%
-- Vaccinated with 3 doses: 0.9
--->
-
-
-
-<!-- 
-C19 Deaths: last week (six-month weekly average)
-- All ages*: 228 (276.9), or 6 people in million 
-- Under 20 : 0 (0.2)
-- Under 40 : 2 (2.5)
-- Average age of deceased: 75  years  
-- Without no other death cause**: 20 +/- 10
-\* Includes deaths from other causes with C19 positive test.
-\** Estimated based on historical data
-
-
-Other deaths in the same week, based on [historical data](https://open-canada.github.io/vitals/app):
-
-Total | Cancer-related  |Heart deseases | Accidents | Suicides
-
-- Total: ~6000
-- Cancer-related: ~1500
-- Heart deseases: ~1000
-- Accidents: ~300
-- Suicides: ~100
-
-C19 Cases resulting in Deaths:
-- All: 0.78% 
-- Unvacinated: 1.0%
-- Vaccinated with 2 doses: 0.5%
-- Vaccinated with 3 doses: 0.9
-
-
-C-19 Vaccine Severe reactions (three-month weekly average adjusted for the reporting delay)
-- All ages:  207 
-- Under 20: 14
-\* Average delay in reporting: 4 months
-
--->
-
-
-
-<!-- 
-  
-**Disclaimer**: The results and views presented in this portal are those by the authors and are not to be misconstrued as representing  views of
-any Canadian Agency, University, or Department. All codes behind the analysis and supporting documents are free, open and available in [GitHub](https://github.com/ivi-m/vitals/).  The authoritative source for COVID-19 information is [Canada.ca/coronavirus](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html). 
-
--->
-
-
-
-<!-- ## Where to go from here: 
-- [Live Spreadsheet:  Official Data Related to COVID-19 Vaccine Efficacy and Safety - Dashboard and raw data](https://docs.google.com/spreadsheets/d/1lSO5jJwTkMNGl9kk6Y5jeGORGS11KzEE5yTxBGrGYKw) 
--->
-
-<a name="Dashboard"></a>
-
-## Live Spreadsheet
-
-<iframe frameborder="0" height="620" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9YL1sdOLcImnAc5FPOq92pcnTBibk7NYZBYI1K5EXxOXgiBS7ONinDa336sAfw3AD4unOadWqFFNd/pubhtml?widget=true&amp;headers=false" width="100%"></iframe>
-
-
-
-## Other resources
-
-
-- [What did Chief Science Advisor of Canada say about COVID-19 vaccines](https://ivi-m.github.io/vitals/#ChiefSciCan)
-- [Guide on how to report COVID-19 vaccine side-effects in Canada as a consumer](https://ivi-m.github.io/vitals/report-side-effect)
-<!-- - [Early COVID-19 Treatment Guidelines](https://worldcouncilforhealth.org/resources/early-covid-19-treatment-guidelines-a-practical-approach-to-home-based-care-for-healthy-families/) -->
-- Interactive *Open Canada Vitals Statitistcs (Deaths) Tracker* App: <https://open-canada.github.io/Apps/vitals> (mirror: <https://o-canada.shinyapps.io/vitals>).
-- Archive of PHAC 'Cases following vaccination' reports ad data: [past reports](https://github.com/IVI-M/vitals/tree/main/docs/COVID-19%20epidemiology%20updates),
-Spreadsheet with raw data&nbsp;and calculations: (<a href="http://docs.google.com/spreadsheets/d/e/2PACX-1vT9YL1sdOLcImnAc5FPOq92pcnTBibk7NYZBYI1K5EXxOXgiBS7ONinDa336sAfw3AD4unOadWqFFNd/pubhtml">google sheets</a>,
-<a href="https://github.com/IVI-M/vitals/tree/main/docs/COVID-19%20epidemiology%20updates/Table2-log-calculations.xlsx">xls</a>, <a href="http://github.com/IVI-M/vitals/tree/main/docs/COVID-19%20epidemiology%20updates/Table2-log-calculations.pdf">pdf</a>)
 
 <a name="News"></a>
 
@@ -149,9 +31,69 @@ https://nationalpost.com/opinion/rex-murphy-trudeaus-monumentally-misguided-emer
 
 
 
+## Dashboard (from [Live Google spreadsheet](https://ivi-m.github.io/vitals/data)):
+
+Last reported: 2022-02-20 - 2022-02-27
+
+
+COVID-19 Vaccine Severe reactions | Six-months weekly average* | Total since May 2021
+-------------------------------|------------|--------------------------|
+All ages | 207 |
+ Under 20 years of age | 14 |
+ 
+Notes: \* Adjusted for the reporting delay, which in an average 4 months.
+
+
+COVID-19 Deaths  | Last week statistics | Six-months weekly average | Total since May 2021
+-------------------------------|------------|--------------------------
+All ages* |  228  |  276.9 
+< 20 years of age   |  0  | 0.2 
+< 40 years of age   |  4  | 5.5 
+All ages from COVID-19 alone (estimated) | 20**  | 25** 
+
+Notes: \* Average age of deceased from COVID-19: 72  years.   
+\*\* Count of 200 equals approximately 5 people in a million in Canada, with population of 39 million.
+
+**Weekly estimates for other causes deaths within the same period" **
+
+All deaths | Cancer-related  |Heart deseases | Accidents | Suicides
+ ~6000 |  ~1500 | ~1000 |  ~300 |  ~100 | 
+
+Percentage of Fully vaccinated  | Last week statistics | Six-months weekly average |
+-------------------------------|------------|--------------------------|
+In COVID-19 deaths | 76.4% | 52% |
+In COVID-19 cases |  83.9% | 62% |
+In Canada (Full vaccination rate) | 80.7% | 75% | 
+
+**Percentage of COVID-19 Cases resulting in Deaths: **
+
+For Unvacinated   | For Vaccinated with 2 doses  | For Vaccinated with 3 doses | Average  
+ 1.0%  | 0.5%  | 0.9  |  0.78%   
+
+
+<a name="Dashboard"></a>
+
+## Live Spreadsheet (click [here](https://ivi-m.github.io/vitals/data) to open it in separate window)
+
+<iframe frameborder="0" height="620" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9YL1sdOLcImnAc5FPOq92pcnTBibk7NYZBYI1K5EXxOXgiBS7ONinDa336sAfw3AD4unOadWqFFNd/pubhtml?widget=true&amp;headers=false" width="100%"></iframe>
+
+
+
+## Other resources
+
+
+- [What did Chief Science Advisor of Canada say about COVID-19 vaccines](https://ivi-m.github.io/vitals/#ChiefSciCan)
+- [Guide on how to report COVID-19 vaccine side-effects in Canada as a consumer](https://ivi-m.github.io/vitals/report-side-effect)
+<!-- - [Early COVID-19 Treatment Guidelines](https://worldcouncilforhealth.org/resources/early-covid-19-treatment-guidelines-a-practical-approach-to-home-based-care-for-healthy-families/) -->
+- Interactive *Open Canada Vitals Statitistcs (Deaths) Tracker* App: <https://open-canada.github.io/Apps/vitals> (mirror: <https://o-canada.shinyapps.io/vitals>).
+- Archive of PHAC 'Cases following vaccination' reports ad data: [past reports](https://github.com/IVI-M/vitals/tree/main/docs/COVID-19%20epidemiology%20updates),
+Spreadsheet with raw data&nbsp;and calculations: (<a href="http://docs.google.com/spreadsheets/d/e/2PACX-1vT9YL1sdOLcImnAc5FPOq92pcnTBibk7NYZBYI1K5EXxOXgiBS7ONinDa336sAfw3AD4unOadWqFFNd/pubhtml">google sheets</a>,
+<a href="https://github.com/IVI-M/vitals/tree/main/docs/COVID-19%20epidemiology%20updates/Table2-log-calculations.xlsx">xls</a>, <a href="http://github.com/IVI-M/vitals/tree/main/docs/COVID-19%20epidemiology%20updates/Table2-log-calculations.pdf">pdf</a>)
+
+
 <a name="ChiefSciCan"></a>
 
-## What Chief Science Advisor of Canada said about COVID-19 vaccines.
+## Raison d'être: What Chief Science Advisor of Canada said about COVID-19 vaccines.
 
 On March 31, 2021, just before COVID-19 vaccination of general public  commenced, the **Chief Science Advisor of Canada** in the ["*Scientific Considerations for Using COVID-19 Vaccination Certificates"*](https://science.gc.ca/eic/site/063.nsf/eng/h_98229.html) report has  expressed several concerns and recommendations related to the uncertanties associated with using new COVID-19 vaccines that were approved under Emergercy Act and did not go through all normally conducted testing stages. Some of these are listed below:
 
@@ -194,6 +136,7 @@ as directly observed form official public Government of Canada data, most of whi
 
 <p><small>Instead of admitting the&nbsp;new evidence and allowing wider scrutiny and revision of originally made statements and policies,&nbsp;the Government of Canada has&nbsp;refused&nbsp;the&nbsp;invitation from&nbsp;heaths experts to discuss the new evidence (see&nbsp;<a href="http://github.com/IVI-M/vitals/blob/main/docs/medical/invite-TAM.pdf">invitation letter to Chief Public Health Officer</a>)&nbsp; and appears to be&nbsp; working towards developing new Bills that will make it even harder for Canadians to express their concerns in relationship to the&nbsp; actual COVID-19 vaccine efficacy and safety, and that will&nbsp;discriminate unvaccinated even further.</small></p>
 
+-->
 
 - Open Canada data that has become available *after* July 2021 <u>do not appear to support </u>  the COVID-19  vaccine manufacturers\' original claims about  vaccine efficacy and safety (See images below). Specifically:
 
@@ -238,7 +181,7 @@ Special Edition presentation for the R4GC Community 'Lunch and Learn' Meetup  by
 
 ## Analysis of Sources
 
-<!-- Last Updated: 2022-02-11 -->
+Last Updated: 2022-02-11 
 
 ### Source #1:
 
@@ -544,7 +487,7 @@ All codes behind the analysis and supporting documents are free, open and availa
 
 
 [ivi-m.github.io/vitals](https://ivi-m.github.io/vitals) (originally: [open-canada.github.io/vitals](https://open-canada.github.io/vitals))    
-Corrections/Comments:  opencanadadataanalysis@ivim.ca ]
+Corrections/Comments:  opencanadadataanalysis@ivim.ca 
 
 <!-- 
 <a href="https://twitter.com/unbiased__one">Twitter</a>, <a href="https://www.youtube.com/user/IVI0IVI">YouTube</a></p>
