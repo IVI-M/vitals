@@ -5,8 +5,7 @@ Analysis of Official Data Related to COVID-19 Vaccine Efficacy and Safety
 Analysis of Official Canada Data Related to COVID-19 Vaccine Efficacy and Safety
 ==================================================
 
-Dashboard \| 
-\| News \| Words from Chief Science Advisor of Canada \| Key observations \| White Papers \| Analysis of Sources
+[Live Dashboard](#Dashboard) \| [News](#News) \| [Words from Chief Science Advisor of Canada](#ChiefSciCan) \| [Key Observations](#Summary) \| [White Papers](#papers) \| [Analysis of Sources](#Sources)
 
 ## Weekly Update (from [Live Google spreadsheet](https://ivi-m.github.io/vitals/data)):
 
@@ -17,6 +16,7 @@ COVID-19 Vaccine Severe reactions | Six-months weekly average* | Total since May
 -------------------------------|------------|--------------------------|
 All ages | 207 |
  Under 20 years of age | 14 |
+ 
 Notes: \* Adjusted for the reporting delay, which in an average 4 months.
 
 
@@ -31,6 +31,7 @@ Notes: \* Average age of deceased from COVID-19: 72  years.
 \*\* Estimated based on historical data. \*\*\* Count of 200 equals approximately 5 people in a million in Canada, with population of 39 million
 
 <b> Other deaths within the same period, estimated based on [historical data](https://open-canada.github.io/vitals/app): </b> 
+
 Total | Cancer-related  |Heart deseases | Accidents | Suicides
  ~6000 |  ~1500 | ~1000 |  ~300 |  ~100 | 
 
@@ -106,6 +107,7 @@ any Canadian Agency, University, or Department. All codes behind the analysis an
 - [Live Spreadsheet:  Official Data Related to COVID-19 Vaccine Efficacy and Safety - Dashboard and raw data](https://docs.google.com/spreadsheets/d/1lSO5jJwTkMNGl9kk6Y5jeGORGS11KzEE5yTxBGrGYKw) 
 -->
 
+<a name="Dashboard"></a>
 
 ## Live Spreadsheet
 
@@ -124,7 +126,7 @@ any Canadian Agency, University, or Department. All codes behind the analysis an
 Spreadsheet with raw data&nbsp;and calculations: (<a href="http://docs.google.com/spreadsheets/d/e/2PACX-1vT9YL1sdOLcImnAc5FPOq92pcnTBibk7NYZBYI1K5EXxOXgiBS7ONinDa336sAfw3AD4unOadWqFFNd/pubhtml">google sheets</a>,
 <a href="https://github.com/IVI-M/vitals/tree/main/docs/COVID-19%20epidemiology%20updates/Table2-log-calculations.xlsx">xls</a>, <a href="http://github.com/IVI-M/vitals/tree/main/docs/COVID-19%20epidemiology%20updates/Table2-log-calculations.pdf">pdf</a>)
 
-
+<a name="News"></a>
 
 ## News 
 
@@ -172,14 +174,26 @@ as directly observed form official public Government of Canada data, most of whi
 
 <!-- ### Observations -->
 
-## Key observations
+<a name="Summary"></a>
 
+## Key Observations
+<!-- 
+<p><small><a href="https://ivi-m.github.io/vitals/#ChiefSciCan">Recommendations of the&nbsp;Chief Science Advisor of Canada</a>, who advised in early stages of vaccination against coersion and being vigilant towards addressing knowledge gaps&nbsp;<u>were not</u> followed.&nbsp;The data related to &quot;knowledge gaps&quot;, such as empirically observed vaccine efficacy and safety statistics, <u>have&nbsp;become available only after August 2021</u>, however&nbsp;the latest report produced by&nbsp;&nbsp;<a href="https://ivi-m.github.io/vitals/#ChiefSciCan">Chief Science Advisor of Canada</a>&nbsp;was published prior to that.</small></p>
 
-<!-- (as being over 90% efficient) and safety (as being "very safe"). 
-*after* the start of general public vaccination
-Recommendations are made to reevaluate vaccine efficacy and safety.based on the emperiical data obtained *<u>after</u>* May, as this is when most (over 95%) of these data was obtained.
+<p><small><u>The new&nbsp;data icollected from August 2021 invalidated&nbsp;</u>many&nbsp;originally made statements about the C19 vaccine safety and efficacy. These are listed below,&nbsp;&nbsp;also documented in many other peer-reviewed and official sources.</small></p>
 
--->
+<p><small>1- Vaccinated get infected and transmit infection <u>not less</u>&nbsp; (possibly more) than unvaccinated.</small></p>
+
+<p><small>2- Majority of vaccinated <u>are not</u> significantly protected from severe outcomes.&nbsp;</small></p>
+
+<p><small>3- Vast majority of people infected by C19, will not have serious effects from C19, and will thus have natural immunity.</small></p>
+
+<p><small>4- Natural immunity is&nbsp;better and safer than&nbsp;vaccine-induced immunity. </small></p>
+
+<p><small>5- The number of severe (life-threatening)&nbsp;vaccine reactions for children&nbsp;&nbsp;reported to date has already exceeded&nbsp; the&nbsp;number of&nbsp;children deaths from C15, and&nbsp; continues to grow as more reports are coming.</small></p>
+
+<p><small>Instead of admitting the&nbsp;new evidence and allowing wider scrutiny and revision of originally made statements and policies,&nbsp;the Government of Canada has&nbsp;refused&nbsp;the&nbsp;invitation from&nbsp;heaths experts to discuss the new evidence (see&nbsp;<a href="http://github.com/IVI-M/vitals/blob/main/docs/medical/invite-TAM.pdf">invitation letter to Chief Public Health Officer</a>)&nbsp; and appears to be&nbsp; working towards developing new Bills that will make it even harder for Canadians to express their concerns in relationship to the&nbsp; actual COVID-19 vaccine efficacy and safety, and that will&nbsp;discriminate unvaccinated even further.</small></p>
+
 
 - Open Canada data that has become available *after* July 2021 <u>do not appear to support </u>  the COVID-19  vaccine manufacturers\' original claims about  vaccine efficacy and safety (See images below). Specifically:
 
@@ -190,16 +204,16 @@ Recommendations are made to reevaluate vaccine efficacy and safety.based on the 
     - Certain reports produced by the Government of Canada (PHAC 'Cases following vaccination' reports) appear to contain algorithmic bias that skews   the results significantly (by order of magnitude) in favour of Fully vaccinated.  The skew was most noticeable at early stages of reporting 'Cases by Vaccination Status' statistics (July - September), when instead of the observed  10%-30% cases/deaths among Fully vaccinated, PHAC reported only 1%-3% of them.
   <!--   - When recomputed without this  bias,  the reported data  <u>do not appear to support</u> the claims made in those reports that *“Fully vaccinated individuals diagnosed with COVID-19 were significantly protected from severe outcomes.”*. The data show  that the percentage of severe outcomes (deaths and hostitlizations) of fully vaccinated is comparable to that of unvaccinated.  More detailed analysis, which is would compare the rate of the increase of severe outcomes among fully vaccinated to the national vaccination rate increase, is required. -->       
 
-
+<!-- 
 
 <img src="https://github.com/IVI-M/vitals/raw/main/docs/COVID-19%20epidemiology%20updates/PHAC-cases-by-vaccination-reported-since2020_12_14-rel.png" width="100%">
 <img src="https://github.com/IVI-M/vitals/raw/main/docs/COVID-19%20epidemiology%20updates/PHAC-cases-by-vaccination-recomputed-per-week-rel.png" width="100%">
 <img src="https://github.com/IVI-M/vitals/raw/main/docs/COVID-19%20epidemiology%20updates/PHAC-cases-by-vaccination-recomputed-per-week-abs.png" width="100%">
- 
+--> 
 
+<a name="Papers"></a>
 
-
-#### White Papers:
+## White Papers:
 
 -  ["Additional  observations related to the 'Elephant in the Room' –  from the Government of Canada COVID-19 daily epidemiology updates"](https://ivi-m.github.io/vitals/comment2.pdf), White paper (10 February 2022) 
 
@@ -220,9 +234,9 @@ Special Edition presentation for the R4GC Community 'Lunch and Learn' Meetup  by
 <img src="https://ivi-m.github.io/vitals/OneYearOfVaccineInCanada-s1.png" width="400" align="center"></a>
 
 
- 
+ <a name="Sources"></a>
 
-## Sources:
+## Analysis of Sources
 
 <!-- Last Updated: 2022-02-11 -->
 
