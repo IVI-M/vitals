@@ -7,12 +7,16 @@ Analysis of Official Canada Data Related to COVID-19 Vaccine Efficacy and Safety
 
 [Raison d'être: Words from Chief Science Advisor of Canada](#ChiefSciCan)  \|
 [Key Observations](#Summary) \|  [White Papers](#papers) \| [Analysis of Sources](#Sources) \|
-[Three sources - three biases](https://www.ivim.ca/bias.htm) \| 
-[Dashboard](#Dashboard) \|  [Spreadsheet](https://ivim.ca/data) \| 
+[Three official sources - three algorithmic biases](https://www.ivim.ca/bias.htm) \| 
+[Deaths with vs. Deaths from](#deathsfrom) \| [Natural vs. Vaccine-induced immunity](#natural) \|
+<a href="https://ivi-m.github.io/vitals/report-side-effect">How to report COVID-19 vaccine side-effects</a> \| 
+ [Dashboard Spreadsheet](https://ivim.ca/data) \| 
 <a href="http://ivim.ca/app">Deaths Tracker App </a>  \| 
-<a href="https://ivi-m.github.io/vitals/report-side-effect">How to report COVID-19 vaccine side-effects</a> \| [Vaccine Mandates](#News)\| [Networking](#meetups) \|
+[Vaccine Mandates](#News) \| [Networking  ](#meetups) \| [YouTube Channel](https://www.youtube.com/user/IVI0IVI) 
+
 
 <!-- 
+
 ## Dashboard (from [Live Google spreadsheet](https://ivi-m.github.io/vitals/data)):
 
 Last reported: 2022-02-20 - 2022-02-27
@@ -56,9 +60,9 @@ For Unvacinated   | For Vaccinated with 2 doses  | For Vaccinated with 3 doses |
 
 <a name="Dashboard"></a>
 
-## Live Spreadsheet 
+## Dashboard 
 
-Click [here](https://ivi-m.github.io/vitals/data) to open Spreadsheet in separate window.
+This dashboard is from [Live Google Spreadsheet](https://ivi-m.github.io/vitals/data)). Click [here](https://ivim.ca/data) to open it in separate window.
 
 <iframe frameborder="0" height="620" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9YL1sdOLcImnAc5FPOq92pcnTBibk7NYZBYI1K5EXxOXgiBS7ONinDa336sAfw3AD4unOadWqFFNd/pubhtml?widget=true&amp;headers=false" width="100%"></iframe>
 
@@ -104,33 +108,35 @@ as directly observed form official public Government of Canada data, most of whi
 
 ## Key Observations
 
-Last updated: 16 February 2022
-<!-- 
+Updated: 2 March 2022
+
+
 <p><small><a href="https://ivi-m.github.io/vitals/#ChiefSciCan">Recommendations of the&nbsp;Chief Science Advisor of Canada</a>, who advised in early stages of vaccination against coersion and being vigilant towards addressing knowledge gaps&nbsp;<u>were not</u> followed.&nbsp;The data related to &quot;knowledge gaps&quot;, such as empirically observed vaccine efficacy and safety statistics, <u>have&nbsp;become available only after August 2021</u>, however&nbsp;the latest report produced by&nbsp;&nbsp;<a href="https://ivi-m.github.io/vitals/#ChiefSciCan">Chief Science Advisor of Canada</a>&nbsp;was published prior to that.</small></p>
 
 <p><small><u>The new&nbsp;data collected from August 2021 invalidated&nbsp;</u>many&nbsp;originally made statements about the C19 vaccine safety and efficacy. These are listed below,&nbsp;&nbsp;also documented in many other peer-reviewed and official sources.</small></p>
 
-1- Vaccinated get infected and transmit infection <u>not less</u>&nbsp; (possibly more) than unvaccinated.
+1. Vaccinated get infected and transmit infection <u>not less</u>&nbsp; (possibly more) than unvaccinated.
 
-2- Majority of vaccinated <u>are not</u> significantly protected from severe outcomes.
+3. Majority of vaccinated <u>are not</u> significantly protected from severe outcomes.
 
-3- Vast majority of people infected by C19, will not have serious effects from C19, and will thus have natural immunity.
+5. Vast majority of people infected by C19, will not have serious effects from C19, and will thus have natural immunity.
 
-4- Natural immunity is&nbsp;better and safer than&nbsp;vaccine-induced immunity. 
+7. Natural immunity is&nbsp;better and safer than&nbsp;vaccine-induced immunity. 
 
-5- The number of severe (life-threatening)&nbsp;vaccine reactions for children&nbsp;&nbsp;reported to date has already exceeded&nbsp; the&nbsp;number of&nbsp;children deaths from C15, and&nbsp; continues to grow as more reports are coming.
+9. The number of severe (life-threatening)&nbsp;vaccine reactions for children&nbsp;&nbsp;reported to date has already exceeded&nbsp; the&nbsp;number of&nbsp;children deaths from C15, and&nbsp; continues to grow as more reports are coming.
 
 Instead of admitting the new evidence and allowing wider scrutiny and revision of originally made statements and policies,&nbsp;the Government of Canada has&nbsp;refused&nbsp;the&nbsp;invitation from&nbsp;heaths experts to discuss the new evidence (see&nbsp;<a href="http://github.com/IVI-M/vitals/blob/main/docs/medical/invite-TAM.pdf">invitation letter to Chief Public Health Officer</a>)&nbsp; and appears to be&nbsp; working towards developing new Bills that will make it even harder for Canadians to express their concerns in relationship to the&nbsp; actual COVID-19 vaccine efficacy and safety, and that will&nbsp;discriminate unvaccinated even further.
 
--->
 
-- Open Canada data that has become available *after* July 2021 <u>do not appear to support </u>  the COVID-19  vaccine manufacturers\' original claims about  vaccine efficacy and safety (See images below). Specifically:
+Updated: 16 February 2022
 
-    - The number of reported serious adverse events from COVID-19 vaccine (including deaths and key organs failures)   appears to be the same order of magnitude as the number of COVID-19 deaths alone, and for certain populations higher than that. It is also noted that these numbers are reported with several months delay and may not represent the true number of side-events, as reporting of vaccines side-events is not mandatory and 
+Open Canada data that has become available *after* July 2021 <u>do not appear to support </u>  the COVID-19  vaccine manufacturers\' original claims about  vaccine efficacy and safety. Specifically:
 
-    - The risk of COVID deaths for population younger than 65 and with no other health issues is about two orders of magnitude less than for older populations with pre-existing heath issues.  Additionally, natural immunity is confirmed to reduce the risk of hospitalizations more than vaccine-induced immunity.
+  - The number of reported serious adverse events from COVID-19 vaccine (including deaths and key organs failures)   appears to be the same order of magnitude as the number of COVID-19 deaths alone, and for certain populations higher than that. It is also noted that these numbers are reported with several months delay and may not represent the true number of side-events, as reporting of vaccines side-events is not mandatory and 
+
+  - The risk of COVID deaths for population younger than 65 and with no other health issues is about two orders of magnitude less than for older populations with pre-existing heath issues.  Additionally, natural immunity is confirmed to reduce the risk of hospitalizations more than vaccine-induced immunity.
     
-    - Certain reports produced by the Government of Canada (PHAC 'Cases following vaccination' reports) appear to contain algorithmic bias that skews   the results significantly (by order of magnitude) in favour of Fully vaccinated.  The skew was most noticeable at early stages of reporting 'Cases by Vaccination Status' statistics (July - September), when instead of the observed  10%-30% cases/deaths among Fully vaccinated, PHAC reported only 1%-3% of them.
+  - Certain reports produced by the Government of Canada (PHAC 'Cases following vaccination' reports) appear to contain [algorithmic bias that skews   the results significantly (by order of magnitude) in favour of Fully vaccinated](https://ivim.ca/bias.htm).  The skew was most noticeable at early stages of reporting 'Cases by Vaccination Status' statistics (July - September), when instead of the observed  10%-30%  cases and deaths among Fully vaccinated, PHAC reported only 1%-3% of them. 
   <!--   - When recomputed without this  bias,  the reported data  <u>do not appear to support</u> the claims made in those reports that *“Fully vaccinated individuals diagnosed with COVID-19 were significantly protected from severe outcomes.”*. The data show  that the percentage of severe outcomes (deaths and hostitlizations) of fully vaccinated is comparable to that of unvaccinated.  More detailed analysis, which is would compare the rate of the increase of severe outcomes among fully vaccinated to the national vaccination rate increase, is required. -->       
 
 <!-- 
@@ -144,9 +150,11 @@ Instead of admitting the new evidence and allowing wider scrutiny and revision o
 
 ## White Papers:
 
-- ["Three official Government of Canada sources, three algorithmic biases, some significant, all in favour of vaccination"](comment4.pdf), TBD (2 March 2020)
 
-- Computing  percentage of fully vaccinated among weekly cases without bias
+- Computing  percentage of fully vaccinated among weekly cases without bias: [Slides](LL-side-effects-2-slides.pdf),  [Transript](LL-side-effects-2-script.pdf), 25 March 2022 
+
+- ["Three official Government of Canada sources, three algorithmic biases, some significant, all in favour of vaccination"](https://ivim.ca/bias.htm), 2 March 2020
+
 
 -  ["Additional  observations related to the 'Elephant in the Room' –  from the Government of Canada COVID-19 daily epidemiology updates"](https://ivi-m.github.io/vitals/comment2.pdf), White paper (10 February 2022) 
 
@@ -156,12 +164,9 @@ Instead of admitting the new evidence and allowing wider scrutiny and revision o
 -  ["Statistical analysis of the official data sources related to vaccine efficacy and  safety (NEW EVIDENCE SINCE OCTOBER     2021)"](https://ivi-m.github.io/vitals/analysis), Additional details (14 January 2022)
   
 - ["One Year since Vaccination. What we have learnt - using Open Canada Data and Data Science"](https://ivi-m.github.io/vitals/OneYearOfVaccineInCanada-deck-meetup-2022-02-04.pdf), 
-Special Edition presentation for the R4GC Community 'Lunch and Learn' Meetup  by the [R4GC Data Science community](https://open-canada.github.io/r4gc/index.html#r4gc-community)  lead, Senior Data Scientist, [Dr. Dmitry Gorodnichy](http://gorodnichy.ca) (4 February 2022).
+Special Edition presentation for the Government of Canada  [Government of Canada  Data Science community](https://open-canada.github.io/r4gc/index.html#r4gc-community) 'Lunch and Learn' Meetup  by  [Dr. Dmitry Gorodnichy](http://gorodnichy.ca) (4 February 2022).
 
-<!--
-- Shorter version of the above deck, modified for larger audience is [here]()
 
--->
 
 <a href="https://ivi-m.github.io/vitals/OneYearOfVaccineInCanada-deck-meetup-2022-02-04.pdf" style="text-align: center">
 <img src="https://ivi-m.github.io/vitals/OneYearOfVaccineInCanada-s1.png" width="400" align="center"></a>
@@ -252,8 +257,6 @@ fully vaccinated     vs.    unvaccinated and partially-vaccinated: <br>
 
  -->
 
-<hr>
-
 
 ### Source #2:
 
@@ -282,8 +285,6 @@ Total (since Jan 2021):
 <img src="https://ivi-m.github.io/vitals/gc2-reactions.png" width="500">
 </a>
 -->
-
-<hr>
 
 ### Source #3:
 
@@ -341,7 +342,7 @@ Multiple insights and anomalies (possibly, “new normals”) are observed:
 - increased delay in reporting deaths: from 2 months to 3 and in some provinces to 6 months
 
 -->
-<hr>
+
 
 ### Source #4:
 
@@ -401,6 +402,8 @@ n = 192,405,448 older than 12 years of age in the US
 
 
 
+<a name="deathsfrom"></a>
+
 ### Sources from other governments:
  
  
@@ -410,6 +413,9 @@ n = 192,405,448 older than 12 years of age in the US
 - 78% of all COVID alone deaths occurred in people with 65+ of age.
 - Average age of death from COVID is 82.5 years, which is statistically equal to the average life expectancy in UK.
 - The chance of having severe complication from COVID infection for people younger than 65 and in good health is very low (<0.01% Cases)  and for  children under 12 even lower (<0.0001% Cases).
+
+
+<a name="natural"></a>
  
 [usg1] **Natural immunity vs. vaccine-induced immunity** (Source: [cdc.gov](https://www.cdc.gov/mmwr/volumes/71/wr/mm7104e1.htm) - [Explanation](https://www.youtube.com/watch?v=eK83QqbNOmU)):
 
@@ -509,10 +515,9 @@ Government of Canada partners and employees, please go to [R4GC GCCollab group](
 
 Corrections and Feedback should be sent:  open-canada-data-analysis@ivim.ca 
 
-#### Elsewhere
+The recording from the meetup are posted <a href="https://www.youtube.com/user/IVI0IVI">YouTube Channel "IVIM (Independently Verified Information)"</a>/
 
-Follow us on 
-<a href="https://twitter.com/Gorodnichy_Dm">Twitter</a>, <a href="https://www.youtube.com/user/IVI0IVI">YouTube</a></p>
+More updates on <a href="https://twitter.com/Gorodnichy_Dm">Twitter</a> and [Facebook](https://www.facebook.com/people/Dmitry-O-Gorodnichy/100010429878764) 
 
 
 
