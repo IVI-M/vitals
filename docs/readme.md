@@ -7,12 +7,12 @@ Analysis of Official Canada Data Related to COVID-19 Vaccine Efficacy and Safety
 
 [Raison d'être: Words from Chief Science Advisor of Canada](#ChiefSciCan)  \|
 [Key Observations](#Summary) \|  [White Papers](#papers) \| [Analysis of Sources](#Sources) \|
-[Three official sources - three algorithmic biases](https://www.ivim.ca/bias.htm) \| 
-[Deaths with vs. Deaths from](#deathsfrom) \| [Natural vs. Vaccine-induced immunity](#natural) \|
+[Three official sources - three algorithmic biases](https://www.ivim.ca/bias.htm) \|  Variation by age and Risks for children](children) \| 
+[Deaths with vs. Deaths from COVID-19](#deathsfrom) \| [Natural vs. Vaccine-induced immunity](#natural) \|
 <a href="https://ivi-m.github.io/vitals/report-side-effect">How to report COVID-19 vaccine side-effects</a> \| 
  [Dashboard Spreadsheet](https://ivim.ca/data) \| 
 <a href="http://ivim.ca/app">Deaths Tracker App </a>  \| 
-[Vaccine Mandates](#News) \| [Networking  ](#meetups) \| [YouTube Channel](https://www.youtube.com/user/IVI0IVI) 
+[Vaccine Mandates](#News) \| [Networking  ](#meetups) \| [IVIM YouTube Channel](https://www.youtube.com/user/IVI0IVI) \| [Additional Resources](#resources) 
 
 
 <!-- 
@@ -62,7 +62,7 @@ For Unvacinated   | For Vaccinated with 2 doses  | For Vaccinated with 3 doses |
 
 ## Dashboard 
 
-This dashboard is from [Live Google Spreadsheet](https://ivi-m.github.io/vitals/data)). Click [here](https://ivim.ca/data) to open it in separate window.
+This dashboard is from [Live Google Spreadsheet](https://ivi-m.github.io/vitals/data). Click [here](https://ivim.ca/data) to open it in separate window or in a different format.
 
 <iframe frameborder="0" height="620" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9YL1sdOLcImnAc5FPOq92pcnTBibk7NYZBYI1K5EXxOXgiBS7ONinDa336sAfw3AD4unOadWqFFNd/pubhtml?widget=true&amp;headers=false" width="100%"></iframe>
 
@@ -121,7 +121,7 @@ Updated: 2 March 2022
 
 5. Vast majority of people infected by C19, will not have serious effects from C19, and will thus have natural immunity.
 
-7. Natural immunity is&nbsp;better and safer than&nbsp;vaccine-induced immunity. 
+7. Natural immunity is longer, better and safer than short-term vaccine-induced immunity. 
 
 9. The number of severe (life-threatening)&nbsp;vaccine reactions for children&nbsp;&nbsp;reported to date has already exceeded&nbsp; the&nbsp;number of&nbsp;children deaths from C15, and&nbsp; continues to grow as more reports are coming.
 
@@ -151,7 +151,7 @@ Open Canada data that has become available *after* July 2021 <u>do not appear to
 ## White Papers:
 
 
-- Computing  percentage of fully vaccinated among weekly cases without bias: [Slides](LL-side-effects-2-slides.pdf),  [Transript](LL-side-effects-2-script.pdf), 25 March 2022 
+- "How to compute and compared weekly statistics using official reported data": [Slides](LL-side-effects-2-slides.pdf),  [Transcript](LL-side-effects-2-script.pdf), 25 March 2022 
 
 - ["Three official Government of Canada sources, three algorithmic biases, some significant, all in favour of vaccination"](https://ivim.ca/bias.htm), 2 March 2020
 
@@ -506,18 +506,17 @@ https://nationalpost.com/opinion/rex-murphy-trudeaus-monumentally-misguided-emer
 
 #### Weekly meetups
 
-Join us for our weekly Lunch and Learn "Data Science with Open Canada Data" meetups.    
-When: Every Friday, 12:00 to 13:00 (Ottawa time)    
-Where: over Zoom    
+Join us for our weekly Lunch and Learn "Data Science with Open Canada Data" seminars.    
+When: Every Friday, 12:05 to 12:50 (Ottawa time)    
+How: over [Zoom](https://us04web.zoom.us/j/72260868830?pwd=dgsDcmFPb82kRI8I-8wkhiKdv8lPuX.1)     
+The recordings from the seminars are posted <a href="https://www.youtube.com/user/IVI0IVI">YouTube Channel "IVIM (Independently Verified Information)"</a>.    
 
-If you'd like to present your work or join us for these meetings, please contact Dmitry Gorodnichy at [dg @ ivim.ca](dg @ ivim.ca).   
-Government of Canada partners and employees, please go to [R4GC GCCollab group](https://gccollab.ca/groups/profile/7391537/r4gc-use-r-community-use-r) for all details and related discussions.
+If you'd like to present your work or join us for these meetings, please contact Dmitry Gorodnichy at [dg @ ivim.ca](dg @ ivim.ca). 
+Corrections and feedback should be sent to the same address.
 
-Corrections and Feedback should be sent:  open-canada-data-analysis@ivim.ca 
+Government of Canada partners and employees, please go to [GCCollab group](https://gccollab.ca/groups/profile/7391537/r4gc-use-r-community-use-r) for related discussions and future seminars announcements
 
-The recording from the meetup are posted <a href="https://www.youtube.com/user/IVI0IVI">YouTube Channel "IVIM (Independently Verified Information)"</a>/
-
-More updates on <a href="https://twitter.com/Gorodnichy_Dm">Twitter</a> and [Facebook](https://www.facebook.com/people/Dmitry-O-Gorodnichy/100010429878764) 
+For more updates, follow us on <a href="https://twitter.com/Gorodnichy_Dm">Twitter</a> and [Facebook](https://www.facebook.com/people/Dmitry-O-Gorodnichy/100010429878764)  
 
 
 
