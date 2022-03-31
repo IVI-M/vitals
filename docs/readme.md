@@ -7,7 +7,7 @@ Analysis of Official Canada Data Related to COVID-19 Vaccine Efficacy and Safety
 
 [Raison d'être: Words from Chief Science Advisor of Canada](#ChiefSciCan)  \|
 [Key Observations](#Summary) \|  [White Papers](#papers) \| [Analysis of Sources](#Sources) \|
-[Three official sources - three algorithmic biases](https://www.ivim.ca/bias.htm) \|  Variation by age and Risks for children](children) \| 
+[Three official sources - three algorithmic biases](https://www.ivim.ca/bias.htm) \|  [Variation by age and Risks for children](#children) \| 
 [Deaths with vs. Deaths from COVID-19](#deathsfrom) \| [Natural vs. Vaccine-induced immunity](#natural) \|
 <a href="https://ivi-m.github.io/vitals/report-side-effect">How to report COVID-19 vaccine side-effects</a> \| 
  [Dashboard Spreadsheet](https://ivim.ca/data) \| 
@@ -399,9 +399,6 @@ n = 192,405,448 older than 12 years of age in the US
 - About 0.0xxx% of COVID-19 cases result in hospitalizations, 0.00yy% result in ICU, and 0.000z% in deaths, about 10% of which  COVID-deaths only - TBC
 -->
 
-
-
-
 <a name="deathsfrom"></a>
 
 ### Sources from other governments:
@@ -428,6 +425,20 @@ n = 192,405,448 older than 12 years of age in the US
 
 <img src="https://ivi-m.github.io/vitals/OneYearOfVaccineInCanada-s13.png" width="100%" >
 
+
+
+
+<a name="children"></a>
+
+### Variation by age
+
+- Average age of death from COVID is 82.5 years, which is statistically equal to the average life expectancy in UK.
+
+### Vaccine for children ?
+
+‘Why are we vaccinating children against COVID-19?’, Toxicology Reports, Volume 8, 2021, Pages 1665-1684, ISSN 2214-7500 (14 September 2021) <https://doi.org/10.1016/j.toxrep.2021.08.010>
+
+https://www.youtube.com/watch?v=HcsHKUZhB4E
 
 
  
@@ -518,6 +529,12 @@ Government of Canada partners and employees, please go to [GCCollab group](https
 
 For more updates, follow us on <a href="https://twitter.com/Gorodnichy_Dm">Twitter</a> and [Facebook](https://www.facebook.com/people/Dmitry-O-Gorodnichy/100010429878764)  
 
+<a name="resources"></a>
+
+## Additional resources
+
+
+https://www.youtube.com/c/Campbellteaching
 
 
 <hr>
