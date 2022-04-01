@@ -12,7 +12,7 @@ Analysis of Official Canada Data Related to COVID-19 Vaccine Efficacy and Safety
 <a href="https://ivi-m.github.io/vitals/report-side-effect">How to report COVID-19 vaccine side-effects</a> \| 
  [Dashboard Spreadsheet](https://ivim.ca/data) \| 
 <a href="http://ivim.ca/app">Deaths Tracker App </a>  \| 
-[Vaccine Mandates](#News) \| [Networking  ](#meetups) \| [IVIM YouTube Channel](https://www.youtube.com/user/IVI0IVI) \| [Additional Resources](#resources) 
+[Vaccine Mandates](#News) \| [Networking](#meetups)  \| [Additional Resources](#resources) \| [YouTube Channel](https://www.youtube.com/user/IVI0IVI)
 
 
 <!-- 
@@ -511,7 +511,8 @@ https://nationalpost.com/opinion/rex-murphy-trudeaus-monumentally-misguided-emer
 
 
 
-<a name="Meetups"></a>
+<a name="meetups"></a>
+<a name="resources"></a>
 
 ## Networking 
 
@@ -520,21 +521,24 @@ https://nationalpost.com/opinion/rex-murphy-trudeaus-monumentally-misguided-emer
 Join us for our weekly Lunch and Learn "Data Science with Open Canada Data" seminars.    
 When: Every Friday, 12:05 to 12:50 (Ottawa time)    
 How: over [Zoom](https://us04web.zoom.us/j/72260868830?pwd=dgsDcmFPb82kRI8I-8wkhiKdv8lPuX.1)     
-The recordings from the seminars are posted <a href="https://www.youtube.com/user/IVI0IVI">YouTube Channel "IVIM (Independently Verified Information)"</a>.    
+The recordings from the seminars are posted on <a href="https://www.youtube.com/user/IVI0IVI">YouTube Channel "IVIM (Independently Verified Information)"</a>.    
 
 If you'd like to present your work or join us for these meetings, please contact Dmitry Gorodnichy at [dg @ ivim.ca](dg @ ivim.ca). 
 Corrections and feedback should be sent to the same address.
 
 Government of Canada partners and employees, please go to [GCCollab group](https://gccollab.ca/groups/profile/7391537/r4gc-use-r-community-use-r) for related discussions and future seminars announcements
 
+<!-- 
 For more updates, follow us on <a href="https://twitter.com/Gorodnichy_Dm">Twitter</a> and [Facebook](https://www.facebook.com/people/Dmitry-O-Gorodnichy/100010429878764)  
 
+-->
 <a name="resources"></a>
 
-## Additional resources
+#### Additional resources
 
+Dr. John Campbell teaching YouTube channel: https://www.youtube.com/c/Campbellteaching
 
-https://www.youtube.com/c/Campbellteaching
+more to be added
 
 
 <hr>
