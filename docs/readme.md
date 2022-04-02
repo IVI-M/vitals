@@ -64,6 +64,8 @@ For Unvacinated   | For Vaccinated with 2 doses  | For Vaccinated with 3 doses |
 
 This dashboard is from [Live Google Spreadsheet](https://ivi-m.github.io/vitals/data). Click [here](https://ivim.ca/data) to open it in separate window or in a different format.
 
+<iframe align="middle" frameborder="0" height="400" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9YL1sdOLcImnAc5FPOq92pcnTBibk7NYZBYI1K5EXxOXgiBS7ONinDa336sAfw3AD4unOadWqFFNd/pubchart?oid=2028442947&amp;format=interactive" width="100%"></iframe>
+
 <iframe frameborder="0" height="620" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9YL1sdOLcImnAc5FPOq92pcnTBibk7NYZBYI1K5EXxOXgiBS7ONinDa336sAfw3AD4unOadWqFFNd/pubhtml?widget=true&amp;headers=false" width="100%"></iframe>
 
 <!-- 
