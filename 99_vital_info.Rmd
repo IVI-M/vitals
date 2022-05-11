@@ -16,13 +16,16 @@
 
 
 
-*Name: * Open Canada Vital Statistics Tracker   
+<!-- *Name: * Open Canada Vital (Deaths) Statistics Tracker    -->
+*Name: * Open Canada Vital Statistics Tracker  (Deaths Tracker) 
 *Type: * Web Application. Compatible with mobile devices   
-*URL:* https://open-canada.github.io/Apps/vitals   
-*Code Source:* https://github.com/open-canada/vitals     
+*URL*: [IVIM.ca/app]()
+<!-- *URL:* https://o-canada.shinyapps.io/vitals (mirror: https://open-canada.github.io/vitals/app)       -->
+*Code Source:* https://github.com/ivi-m/vitals     
 *Data Source:* [Statistics Canada, Canadian Vital Statistics - Death database (CVSD)](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=3233)   
 *Licenses: * [Open Government license - Canada](http://open.canada.ca/en/open-government-licence-canada) (data), [MIT license](https://github.com/open-canada/vitals/blob/main/LICENSE) (code)
-
+*Developer*: [Dmitry Gorodnichy](http://gorodnichy.ca), [IVIM](https://IVIM.ca), [Open Canada R4GC Community](https://open-canada.github.io/r4gc/index.html#r4gc-community) 
+*Contact*: dg@ivim.ca
 
 <!-- The code is under MIT license and is free to use by anyone.    -->
 <!-- All the data is under [Open Government License - Canada](http://open.canada.ca/en/open-government-licence-canada). -->
@@ -54,20 +57,42 @@ By default, the App uses cached CVSD data for faster operation. To read data dir
 
 For more information on how to use the App, please see [App Tools].
 
+[Research Paper](https://open-canada.github.io/vitals/comment.pdf) describing the results of the statistical analysis that was conducted using this App is available [here](https://open-canada.github.io/vitals/comment.pdf).
+
+<!--
+ written in a form of the Comment to the Lancet journal, 
+Suggested citation: "Some observations from Canadian Vital Statistics Death (CVSD) Database related to the 'Elephant in the Room' (D. Gorodnichy, R. Kulik, S Matwin),  Submission to
+The Lancet Journal. 2022/01/16, https://open-canada.github.io/vitals.-->
 
 #### Dislaimer
 
-The Open Canada Vital Statistics Tracker App is developed by the [R4GC Community](https://open-canada.github.io/r4gc/index.html#r4gc-community) as part of weekly [Lunch and Learn "Data Science with R"](https://open-canada.github.io/r4gc/index.html#lunch-and-learn-data-science-with-r-meetups) training. It is not to be associated with any Government of Canada  program or department.
+This App is built with contributions of many data scientists and concerned Canadian citizen. It is not related to  
+any Canadian Agency, University, or Department.
 
-The authoritative source for COVID-19 information is [Canada.ca/coronavirus](https://canada.ca/coronavirus). 
+The authoritative source for COVID-19 information is [Canada.ca/coronavirus](https://canada.ca/coronavirus).
 
-For references related to safety and efficacy of vaccine please see [Additional information] section.
-
-
-For  details about the CVSD data (Sources, Methodology, Accuracy) please visit the [Statistics Canada, Canadian Vital Statistics - Death database (CVSD) site](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=3233).   
-See also [Data Sources] for direct links to the databases and  additional notes provided for those databases.
+<!-- developed by the [R4GC Community](https://open-canada.github.io/r4gc/index.html#r4gc-community) as part of weekly [Lunch and Learn "Data Science with R"](https://open-canada.github.io/r4gc/index.html#lunch-and-learn-data-science-with-r-meetups) training.  -->
+<!-- The views expressed in this publication are those of the authors. They do not purport to reflect the views of any Canadian Agency, University, or Department. -->
 
 
+
+#### Further reading
+
+For more direct links and additional information related for the analyzed  databases, please see [Data Sources].   
+For  details about the CVSD database (Sources, Methodology, Accuracy), please visit the [Statistics Canada, Canadian Vital Statistics - Death database (CVSD) site](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=3233).   
+For peer-reviewed references related to COVID-19 vaccines safety and efficacy  please see [Additional information] section.    
+For more results from the *'Analysis of Official Data Related to COVID-19 Vaccine Efficacy and Safety'*, go to the [IVIM Portal](https://www.IVIM.ca) or [Open Canada Vitals GitHub Portal](https://open-canada.github.io/vitals/)
+
+
+#### Ways to contribute
+
+This App is free to use and provided without advertising.
+If you found it useful, please consider donating some of your time or money to support its further development.
+The donation button is below. The contact is above. Thank you!
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<p><input name="hosted_button_id" type="hidden" value="Q96KJTKVS2VLW" /> <input alt="Donate with PayPal button" border="0" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" title="PayPal - The safer, easier way to pay online!" type="image" /> <img alt="" border="0" height="1" src="https://www.paypal.com/en_CA/i/scr/pixel.gif" width="1" /></p>
+</form>
 
 
 ### App Tools
@@ -89,7 +114,7 @@ The following visualization tools are provided in this App.
 
 #### Statistics tools
 
-
+- [Correlations] allows one to compute  and  visualize correlations between selected death causes and/or vaccination and time, using different correlation methods.
 
 - [Tables]  allow  one to view, filter, subset, and export the various statistical data as an .csv, pdf, Excel file, or to a printer or clipboard. This includes:   
 
@@ -97,7 +122,7 @@ The following visualization tools are provided in this App.
   - Correlations Table, which shows correlation coefficients between the selected deaths causes and time
   - Raw death and vaccination (when selected) data for the selected causes and regions. 
 
-- [Correlations] allows one to compute  and  visualize correlations between selected death causes and/or vaccination and time, using different correlation methods.
+
 
 <!-- - [Summary]: is an interactive table that provides a statistical summary of the selected data such as: lowest / highest / average weekly results and  weekly average dynamics (i.e. how much result change weekly over time) computed as a slope of the linear model regression line. Positive "dynamics" means that values grow with time, "0" dynamics means that data are stable and  negative "dynamics" means the deaths numbers decline with time. -->
 <!-- ...is an another interactive table that shows  raw data extracted from the source Open Canada portal using the selected criteria.  -->
@@ -189,33 +214,29 @@ The following subsets of the  CVSD database are used in this App.
 Provisional weekly death counts, by selected grouped causes of death    
 Frequency: Weekly    
 Table: 13-10-0810-01    
-URL: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310081001
-
-<!-- - Direct link: https://www150.statcan.gc.ca/n1/tbl/csv/13100810-eng.zip -->
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310081001
 
 
 Provisional weekly death counts, by age group and sex       
 Frequency: Weekly    
 Table: 13-10-0768-01     
-URL: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310081001
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310076801
 
 
 Provisional weekly estimates of the number of deaths, expected number of deaths and excess mortality, by age group and sex    
-Frequency: Weekly 
+Frequency: Weekly    
 Table: 13-10-0792-01   
-URL: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310079201
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310079201
+
+<!-- 
+Previous releases and revisions to provisional weekly death counts   
+Frequency: Weekly    
+Table: 13-10-0783-01    
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310078301
+-->
 
 
-<!-- Previous releases and revisions to provisional weekly death counts -->
-<!-- Frequency: Weekly -->
-<!-- Table: 13-10-0783-01 -->
-<!-- Release date: 2021-12-06 -->
-<!-- Geography: Canada, Province or territory -->
-<!-- https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310078301 -->
-
-
-
-For more details about the CVSD data (Sources, Methodology, Accuracy) please visit the [Official CVSD site](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=3233).  Additional notes that are provided for the provisional data  that use used in this App are listed below. 
+For more details about the CVSD data (Sources, Methodology, Accuracy) please visit the [Official CVSD site](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=3233).  Notes that are specifically related to the  data   used in this App are listed below. 
 
 
 
@@ -466,7 +487,7 @@ For comparison, the total number of deaths due to COVID-19 in the same period (M
 <br>
 <font size=-1>
 **Quote**: *"Health Canada updates Pfizer-BioNTech and Moderna COVID-19 vaccine labels to include information on myocarditis and pericarditis"* and *"...to reflect very rare reports of Bell's Palsy"* <br>
-**Note:** The listed  three complications  count for less than third of reported serious complications. 
+**Note:** The listed  three complications  count for less than third of reported serious complications. It is estimated that many adverse events, including serious ones, are still not reported.
 
 </font>
 
@@ -475,9 +496,12 @@ For comparison, the total number of deaths due to COVID-19 in the same period (M
 URL: https://hpr-rps.hres.ca/side-effects-reporting-form.php?form=voluntary. Tel: 1-866-234-2345.
 <br>
 <font size=-1>
-**Note:** In Canada, Voluntary Reporting can only be done by a medical doctor. 
-Reporting of events that did not happen at the time of vaccination can take several months.
-<!-- , which results in reducing the number of filed reports and creates a delay in filing the reports, in particular when  reporting  events that did not happen immediately after vaccination  -->
+**Note:** 
+You can report a side effect as a consumer  at the link above  (use your initials  as Patient ID). If you have problems, you can leave a message at number above, they return a call within 24 hours. This way it is faster, then asking your medical doctor to file it for you.
+
+
+<!-- Reporting of events that did not happen at the time of vaccination can take several months. -->
+
 </font>
 
 
@@ -507,7 +531,53 @@ Reporting of events that did not happen at the time of vaccination can take seve
 - 'COVID-19 vaccine efficacy and effectiveness—the elephant (not) in the room', 
 The Lancet, VOLUME 2, ISSUE 7, E279-E280 (JULY 01, 2021):  https://doi.org/10.1016/S2666-5247(21)00069-0 
 <br>
- **Note:**  Explains why the efficacy of COVID-19 vaccines is not 95% as reported by vaccine manufacturers but less than 1%.
+ **Note:**   Explains why the efficacy of COVID-19 vaccines is not 95%,  as reported by vaccine manufacturers and quoted in many governments policies, but less than 1%.
+
+<!--
+
+<font size=-1>
+*"Vaccine efficacy is generally reported as a relative risk reduction (RRR). It uses the relative risk (RR)—ie, the ratio of attack rates with and without a vaccine—which is expressed as 1–RR. Ranking by reported efficacy gives relative risk reductions of 95% for the Pfizer–BioNTech, 94% for the Moderna–NIH, 91% for the Gamaleya, 67% for the J&J, and 67% for the AstraZeneca–Oxford vaccines. However, RRR should be seen against the background risk of being infected and becoming ill with COVID-19, which varies between populations and over time. Although the RRR considers only participants who could benefit from the vaccine, the absolute risk reduction (ARR), which is the difference between attack rates with and without a vaccine, considers the whole population. ARRs tend to be ignored because they give a much less impressive effect size than RRRs: 1.3% for the AstraZeneca–Oxford, 1.2% for the Moderna–NIH, 1.2% for the J&J, 0.93% for the Gamaleya, and 0.84% for the Pfizer–BioNTech vaccines."*
+<br><br>
+</font>
+
+-->
+
+
+<!-- 
+
+
+Based on references below, PHAC states that vaccine show high (95-99%) efficacy. In fact, it is less than 1% efficient, even according to their own numbers provided in these references
+
+1.  Efficacy and Safety of the mRNA-1273 SARS-CoV-2 Vaccine
+COVE Study Group,
+N Engl J Med 2021; 384:403-416, 
+https://www.nejm.org/doi/full/10.1056/nejmoa2035389 
+
+#1
+"The trial enrolled 30,420 volunteers who were randomly assigned in a 1:1 ratio to receive either vaccine or placebo (15,210 participants in each group). More than 96% of participants received both injections, and 2.2% had evidence (serologic, virologic, or both) of SARS-CoV-2 infection at baseline. Symptomatic Covid-19 illness was confirmed in 185 participants in the placebo group (56.5 per 1000 person-years; 95% confidence interval [CI], 48.7 to 65.3) and in 11 participants in the mRNA-1273 group (3.3 per 1000 person-years; 95% CI, 1.7 to 6.0); vaccine efficacy was 94.1% (95% CI, 89.3 to 96.8%; P<0.001)." 
+
+Absolute difference = 185 cases - 11 cases per 15,210, yielding a difference of 174 cases / 15,210. 
+This is 1.1% absolute difference of cases between the vaccinated and unvaccinated . 
+This is a 1.1% effectiveness rate which they reported as 94.1% relative effectiveness rate.
+
+
+2. Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine, C4591001 Clinical Trial Group, 
+N Engl J Med 2020; 383:2603-2615, 
+https://www.nejm.org/doi/full/10.1056/nejmoa2034577
+
+
+
+#2
+"A total of 43,548 participants underwent randomization, of whom 43,448 received injections: 21,720 with BNT162b2 and 21,728 with placebo. There were 8 cases of Covid-19 with onset at least 7 days after the second dose among participants assigned to receive BNT162b2 and 162 cases among those assigned to placebo; BNT162b2 was 95% effective in preventing Covid-19 (95% credible interval, 90.3 to 97.6).
+
+
+Absolute difference = 162 cases - 8 cases per 21,720 yielding a difference of 154 cases / 21,720.
+This is 0.7% absolute difference of cases between the vaccinated and unvaccinated . 
+That is vaccine shows 0.7% effectiveness rate which is  reported as 95% relative effectiveness rate.
+
+
+-->
+
 
   
  <!--

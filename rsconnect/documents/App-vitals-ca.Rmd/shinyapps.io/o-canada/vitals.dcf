@@ -1,0 +1,13 @@
+name: vitals
+title: vitals
+username:
+account: o-canada
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5305059
+bundleId: 5893306
+url: https://o-canada.shinyapps.io/vitals/
+when: 1652234407.85986
+lastSyncTime: 1652234407.85989
+asMultiple: FALSE
+asStatic: FALSE

@@ -4,17 +4,17 @@ library(metathis)
 library(magrittr); 
 meta() %>%
   meta_description(
-    "Open Canada Vital Statistics Tracker App enables interactive visualization of data from 'Statistics Canada, Canadian Vital Statistics - Death  (CVSD)' database'"
+    "Open Canada Vital Statistics (Deaths by Cause) Tracker App enables interactive visualization of data from 'Statistics Canada, Canadian Vital Statistics - Death  (CVSD)' database'"
   ) %>%
   meta_name("github-repo" = "open-canada/vitals") %>%
   meta_viewport() %>%
   meta_social(
-    title = "Open Canada Vital Statistics Tracker App",
-    url = "https://open-canada.github.io/Apps/vitals",
-    # image = "https://github.com/open-canada/r4gc/raw/main/images/rCanada-octogon.png",
-    image_alt = "o-Canada Vitals Logo",
+    title = "Open Canada Deaths Tracker",
+    url = "https://ivim.ca/app",
+    image = "https://github.com/open-canada/r4gc/raw/main/images/rCanada-octogon.png",
+    image_alt = "IVIM Logo",
     og_type = "app",
-    og_author = c("R4GC Community"),
+    og_author = c("Dmitry Gorodnichy", "IVIM"),
   )   %>%
   meta_general(
     # keywords = "open canada, statistics, vital databases, cases, deaths, births, covidcanada, covid", # This does not work
